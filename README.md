@@ -19,26 +19,27 @@ The HTML files are also hosted on my blog under the following links:
 
 The following major versions of Windows are included in the tables:
 
-| System              | x86 versions                       | x64 versions                       |
-|---------------------|------------------------------------|------------------------------------|
-| Windows NT          | SP3, SP4, SP5, SP6                 | –                                  |
-| Windows 2000        | SP0, SP1, SP2, SP3, SP4            | –                                  |
-| Windows XP          | SP0, SP1, SP2, SP3                 | SP1, SP2                           |
-| Windows Server 2003 | SP0, SP1, SP2, R2, R2 SP2          | SP0, SP2, R2, R2 SP2               |
-| Windows Vista       | SP0, SP1, SP2                      | SP0, SP1, SP2                      |
-| Windows Server 2008 | SP0, SP2                           | SP0, SP2, R2, R2 SP1               |
-| Windows 7           | SP0, SP1                           | SP0, SP1                           |
-| Windows Server 2012 | –                                  | SP0, R2                            |
-| Windows 8           | 8.0, 8.1                           | 8.0, 8.1                           |
-| Windows 10          | 1507, 1511, 1607, 1703, 1709, 1803 | 1507, 1511, 1607, 1703, 1709, 1803 |
+| System              | x86 versions                             | x64 versions                             |
+|---------------------|------------------------------------------|------------------------------------------|
+| Windows NT          | SP3, SP4, SP5, SP6                       | –                                        |
+| Windows 2000        | SP0, SP1, SP2, SP3, SP4                  | –                                        |
+| Windows XP          | SP0, SP1, SP2, SP3                       | SP1, SP2                                 |
+| Windows Server 2003 | SP0, SP1, SP2, R2, R2 SP2                | SP0, SP2, R2, R2 SP2                     |
+| Windows Vista       | SP0, SP1, SP2                            | SP0, SP1, SP2                            |
+| Windows Server 2008 | SP0, SP2                                 | SP0, SP2, R2, R2 SP1                     |
+| Windows 7           | SP0, SP1                                 | SP0, SP1                                 |
+| Windows Server 2012 | –                                        | SP0, R2                                  |
+| Windows 8           | 8.0, 8.1                                 | 8.0, 8.1                                 |
+| Windows 10          | 1507, 1511, 1607, 1703, 1709, 1803, 1809 | 1507, 1511, 1607, 1703, 1709, 1803, 1809 |
 
 Windows Server 2016 and later are not included, as their syscall tables are equivalent to that of Windows 10:
 
 | Windows Server version | Windows 10 release |
 |:----------------------:|:------------------:|
-|          2016          |        1607        |
+|    2016 LTSC (1607)    |        1607        |
 |          1709          |        1709        |
 |          1803          |        1803        |
+|    2019 LTSC (1809)    |        1809        |
 
 ## Thanks
 

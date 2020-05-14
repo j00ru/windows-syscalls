@@ -30,7 +30,7 @@ The following major versions of Windows are included in the tables:
 | Windows 7           | SP0, SP1                                 | SP0, SP1                                 |
 | Windows Server 2012 | –                                        | SP0, R2                                  |
 | Windows 8           | 8.0, 8.1                                 | 8.0, 8.1                                 |
-| Windows 10          | 1507, 1511, 1607, 1703, 1709, 1803, 1809, 1903, 1909 | 1507, 1511, 1607, 1703, 1709, 1803, 1809, 1903, 1909 |
+| Windows 10          | 1507, 1511, 1607, 1703, 1709, 1803, 1809, 1903, 1909, 2004 | 1507, 1511, 1607, 1703, 1709, 1803, 1809, 1903, 1909, 2004 |
 
 Windows Server 2016 and later are not included, as their syscall tables are equivalent to that of Windows 10:
 
@@ -42,6 +42,7 @@ Windows Server 2016 and later are not included, as their syscall tables are equi
 |    2019 LTSC (1809)    |        1809        |
 |          1903          |        1903        |
 |          1909          |        1909        |
+|          2004          |        2004        |
 
 ## Historical system call counts
 

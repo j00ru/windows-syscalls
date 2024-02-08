@@ -26,28 +26,32 @@ The following major versions of Windows are included in the tables:
 | Windows XP          | SP0, SP1, SP2, SP3                       | SP1, SP2                                 |
 | Windows Server 2003 | SP0, SP1, SP2, R2, R2 SP2                | SP0, SP2, R2, R2 SP2                     |
 | Windows Vista       | SP0, SP1, SP2                            | SP0, SP1, SP2                            |
-| Windows Server 2008 | SP0, SP2                                 | SP0, SP2, R2, R2 SP1                     |
 | Windows 7           | SP0, SP1                                 | SP0, SP1                                 |
-| Windows Server 2012 | –                                        | SP0, R2                                  |
 | Windows 8           | 8.0, 8.1                                 | 8.0, 8.1                                 |
-| Windows 10          | 1507, 1511, 1607, 1703, 1709, 1803, 1809, 1903, 1909, 2004, 20H2 | 1507, 1511, 1607, 1703, 1709, 1803, 1809, 1903, 1909, 2004, 20H2 |
+| Windows 10          | 1507, 1511, 1607, 1703, 1709, 1803, 1809, 1903, 1909, 2004, 20H2, 21H1, 21H2, 22H2 | 1507, 1511, 1607, 1703, 1709, 1803, 1809, 1903, 1909, 2004, 20H2, 21H1, 21H2, 22H2 |
+| Windows Server      | -                                        | 2022, 23H2                               |
+| Windows 11          | -                                        | 21H2, 22H2, 23H2                         |
 
-Windows Server 2016 and later are not included, as their syscall tables are equivalent to that of Windows 10:
+Some older versions of Windows Server are not included, as their syscall tables are equivalent to these of desktop Windows editions:
 
-| Windows Server version | Windows 10 release |
-|:----------------------:|:------------------:|
-|    2016 LTSC (1607)    |        1607        |
-|          1709          |        1709        |
-|          1803          |        1803        |
-|    2019 LTSC (1809)    |        1809        |
-|          1903          |        1903        |
-|          1909          |        1909        |
-|          2004          |        2004        |
-|          20H2          |        20H2        |
+| Windows Server version | Windows Desktop version |
+|:----------------------:|:-----------------------:|
+|      2008 SP0/SP2      |      Vista SP1/SP2      |
+|    2008 R2 SP0/SP1     |        7 SP0/SP1        |
+|        2012 SP0        |           8.0           |
+|        2012 R2         |           8.1           |
+|    2016 LTSC (1607)    |         10 1607         |
+|          1709          |         10 1709         |
+|          1803          |         10 1803         |
+|    2019 LTSC (1809)    |         10 1809         |
+|          1903          |         10 1903         |
+|          1909          |         10 1909         |
+|          2004          |         10 2004         |
+|          20H2          |         10 20H2         |
 
 ## Historical system call counts
 
-Below is a line chart showing the progression of Windows system call development over time. It covers all major desktop versions of Windows starting with Windows NT 4.0 released in August 1996, up to the most recent versions of Windows 10. Server editions are not included as their kernels are equivalent to their desktop counterparts. The analysis was performed on x86 builds for consistency, as this is the only CPU architecture which covers all available systems. There might be very small differences on x64 builds of the kernel or the less popular editions (e.g. Windows NT 4.0 Terminal Server), but they are insignificant for the purpose of this overview chart.
+Below is a line chart showing the progression of Windows system call development over time. It covers all major desktop versions of Windows starting with Windows NT 4.0 released in August 1996, up to the most recent versions of Windows 11. Server editions are not included for brevity. The analysis was performed on x86 builds for consistency, with the exception of Windows 11 where x64 is the only supported platform. There might be very small differences on x64 builds of the kernel or the less popular editions (e.g. Windows NT 4.0 Terminal Server), but they are insignificant for the purpose of this overview chart.
 
 ![Historical system call counts](resources/chart.svg)
 

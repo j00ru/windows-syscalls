@@ -10,10 +10,10 @@ The data is formatted in the CSV and JSON formats for programmatic use, and as a
 
 The HTML files are also hosted on my blog under the following links:
 
-- `ntoskrnl.exe`, x86: http://j00ru.vexillium.org/syscalls/nt/32/
-- `ntoskrnl.exe`, x64: http://j00ru.vexillium.org/syscalls/nt/64/
-- `win32k.sys`, x86: http://j00ru.vexillium.org/syscalls/win32k/32/
-- `win32k.sys`, x64: http://j00ru.vexillium.org/syscalls/win32k/64/
+- `ntoskrnl.exe`, x86: https://j00ru.vexillium.org/syscalls/nt/32/
+- `ntoskrnl.exe`, x64: https://j00ru.vexillium.org/syscalls/nt/64/
+- `win32k.sys`, x86: https://j00ru.vexillium.org/syscalls/win32k/32/
+- `win32k.sys`, x64: https://j00ru.vexillium.org/syscalls/win32k/64/
 
 ## Operating systems
 

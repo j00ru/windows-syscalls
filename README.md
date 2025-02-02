@@ -19,18 +19,19 @@ The HTML files are also hosted on my blog under the following links:
 
 The following major versions of Windows are included in the tables:
 
-| System              | x86 versions                             | x64 versions                             |
-|---------------------|------------------------------------------|------------------------------------------|
-| Windows NT          | SP3 Terminal Server, SP3, SP4, SP5, SP6  | –                                        |
-| Windows 2000        | SP0, SP1, SP2, SP3, SP4                  | –                                        |
-| Windows XP          | SP0, SP1, SP2, SP3                       | SP1, SP2                                 |
-| Windows Server 2003 | SP0, SP1, SP2, R2, R2 SP2                | SP0, SP2, R2, R2 SP2                     |
-| Windows Vista       | SP0, SP1, SP2                            | SP0, SP1, SP2                            |
-| Windows 7           | SP0, SP1                                 | SP0, SP1                                 |
-| Windows 8           | 8.0, 8.1                                 | 8.0, 8.1                                 |
+| System              | x86 versions                 												            | x64 versions                             |
+|---------------------|-----------------------------------------------------------------|------------------------------------------|
+| Windows NT 3.x      | 3.1, 3.5, 3.51                           												| -                                        |
+| Windows NT 4.0      | SP0, SP1, SP2, SP3, SP3 Terminal Server Edition, SP4, SP5, SP6  | –                                        |
+| Windows 2000        | SP0, SP1, SP2, SP3, SP4                  												| –                                        |
+| Windows XP          | SP0, SP1, SP2, SP3                       												| SP1, SP2                                 |
+| Windows Server 2003 | SP0, SP1, SP2, R2, R2 SP2                												| SP0, SP2, R2, R2 SP2                     |
+| Windows Vista       | SP0, SP1, SP2                            												| SP0, SP1, SP2                            |
+| Windows 7           | SP0, SP1                                 												| SP0, SP1                                 |
+| Windows 8           | 8.0, 8.1                                 												| 8.0, 8.1                                 |
 | Windows 10          | 1507, 1511, 1607, 1703, 1709, 1803, 1809, 1903, 1909, 2004, 20H2, 21H1, 21H2, 22H2 | 1507, 1511, 1607, 1703, 1709, 1803, 1809, 1903, 1909, 2004, 20H2, 21H1, 21H2, 22H2 |
-| Windows Server      | -                                        | 2022, 23H2                               |
-| Windows 11          | -                                        | 21H2, 22H2, 23H2, 24H2                   |
+| Windows 11          | -                                        												| 21H2, 22H2, 23H2, 24H2                   |
+| Windows Server      | -                                        												| 2022, 23H2                               |
 
 Some older versions of Windows Server are not included, as their syscall tables are equivalent to these of desktop Windows editions:
 
@@ -51,7 +52,7 @@ Some older versions of Windows Server are not included, as their syscall tables 
 
 ## Historical system call counts
 
-Below is a line chart showing the progression of Windows system call development over time. It covers all major desktop versions of Windows starting with Windows NT 4.0 released in August 1996, up to the most recent versions of Windows 11. Server editions are not included for brevity. The analysis was performed on x86 builds for consistency, with the exception of Windows 11 where x64 is the only supported platform. There might be very small differences on x64 builds of the kernel or the less popular editions (e.g. Windows NT 4.0 Terminal Server), but they are insignificant for the purpose of this overview chart.
+Below is a line chart showing the progression of Windows system call development over time. It covers all major desktop versions of Windows starting with Windows NT 3.1 released in July 1993, up to the most recent versions of Windows 11. Server editions are not included for brevity. The analysis was performed on x86 builds for consistency, with the exception of Windows 11 where x64 is the only supported platform. There might be very small differences on x64 builds of the kernel or the less popular editions (e.g. Windows NT 4.0 Terminal Server), but they are insignificant for the purpose of this overview chart.
 
 ![Historical system call counts](resources/chart.svg)
 

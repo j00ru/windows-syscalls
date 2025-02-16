@@ -1993,7 +1993,7 @@
     }
   },
   "NtGdiAbortDoc": {
-    "Windows NT": {
+    "Windows NT 4.0": {
       "SP0": 4096,
       "SP1": 4096,
       "SP2": 4096,
@@ -2054,7 +2054,7 @@
     }
   },
   "NtGdiAbortPath": {
-    "Windows NT": {
+    "Windows NT 4.0": {
       "SP0": 4097,
       "SP1": 4097,
       "SP2": 4097,
@@ -2210,7 +2210,7 @@
     }
   },
   "NtGdiAddFontResourceW": {
-    "Windows NT": {
+    "Windows NT 4.0": {
       "SP0": 4098,
       "SP1": 4098,
       "SP2": 4098,
@@ -2286,7 +2286,7 @@
     }
   },
   "NtGdiAddRemoteFontToDC": {
-    "Windows NT": {
+    "Windows NT 4.0": {
       "SP0": 4099,
       "SP1": 4099,
       "SP2": 4099,
@@ -2449,7 +2449,7 @@
     }
   },
   "NtGdiAngleArc": {
-    "Windows NT": {
+    "Windows NT 4.0": {
       "SP0": 4100,
       "SP1": 4100,
       "SP2": 4100,
@@ -2561,7 +2561,7 @@
     }
   },
   "NtGdiArcInternal": {
-    "Windows NT": {
+    "Windows NT 4.0": {
       "SP0": 4101,
       "SP1": 4101,
       "SP2": 4101,
@@ -2896,7 +2896,7 @@
     }
   },
   "NtGdiBeginPath": {
-    "Windows NT": {
+    "Windows NT 4.0": {
       "SP0": 4102,
       "SP1": 4102,
       "SP2": 4102,
@@ -2957,7 +2957,7 @@
     }
   },
   "NtGdiBitBlt": {
-    "Windows NT": {
+    "Windows NT 4.0": {
       "SP0": 4103,
       "SP1": 4103,
       "SP2": 4103,
@@ -3171,7 +3171,7 @@
     }
   },
   "NtGdiCancelDC": {
-    "Windows NT": {
+    "Windows NT 4.0": {
       "SP0": 4104,
       "SP1": 4104,
       "SP2": 4104,
@@ -3415,7 +3415,7 @@
     }
   },
   "NtGdiCloseFigure": {
-    "Windows NT": {
+    "Windows NT 4.0": {
       "SP0": 4105,
       "SP1": 4105,
       "SP2": 4105,
@@ -3527,7 +3527,7 @@
     }
   },
   "NtGdiCombineRgn": {
-    "Windows NT": {
+    "Windows NT 4.0": {
       "SP0": 4106,
       "SP1": 4106,
       "SP2": 4106,
@@ -3588,7 +3588,7 @@
     }
   },
   "NtGdiCombineTransform": {
-    "Windows NT": {
+    "Windows NT 4.0": {
       "SP0": 4107,
       "SP1": 4107,
       "SP2": 4107,
@@ -3649,7 +3649,7 @@
     }
   },
   "NtGdiComputeXformCoefficients": {
-    "Windows NT": {
+    "Windows NT 4.0": {
       "SP0": 4108,
       "SP1": 4108,
       "SP2": 4108,
@@ -3741,7 +3741,7 @@
     }
   },
   "NtGdiConsoleTextOut": {
-    "Windows NT": {
+    "Windows NT 4.0": {
       "SP0": 4109,
       "SP1": 4109,
       "SP2": 4109,
@@ -3778,7 +3778,7 @@
     }
   },
   "NtGdiConvertMetafileRect": {
-    "Windows NT": {
+    "Windows NT 4.0": {
       "SP0": 4110,
       "SP1": 4110,
       "SP2": 4110,
@@ -3839,7 +3839,7 @@
     }
   },
   "NtGdiCreateBitmap": {
-    "Windows NT": {
+    "Windows NT 4.0": {
       "SP0": 4111,
       "SP1": 4111,
       "SP2": 4111,
@@ -3948,7 +3948,7 @@
     }
   },
   "NtGdiCreateClientObj": {
-    "Windows NT": {
+    "Windows NT 4.0": {
       "SP0": 4112,
       "SP1": 4112,
       "SP2": 4112,
@@ -4111,7 +4111,7 @@
     }
   },
   "NtGdiCreateCompatibleBitmap": {
-    "Windows NT": {
+    "Windows NT 4.0": {
       "SP0": 4113,
       "SP1": 4113,
       "SP2": 4113,
@@ -4172,7 +4172,7 @@
     }
   },
   "NtGdiCreateCompatibleDC": {
-    "Windows NT": {
+    "Windows NT 4.0": {
       "SP0": 4114,
       "SP1": 4114,
       "SP2": 4114,
@@ -4233,7 +4233,7 @@
     }
   },
   "NtGdiCreateDIBBrush": {
-    "Windows NT": {
+    "Windows NT 4.0": {
       "SP0": 4115,
       "SP1": 4115,
       "SP2": 4115,
@@ -4294,7 +4294,7 @@
     }
   },
   "NtGdiCreateDIBSection": {
-    "Windows NT": {
+    "Windows NT 4.0": {
       "SP0": 4117,
       "SP1": 4117,
       "SP2": 4117,
@@ -4355,7 +4355,7 @@
     }
   },
   "NtGdiCreateDIBitmapInternal": {
-    "Windows NT": {
+    "Windows NT 4.0": {
       "SP0": 4116,
       "SP1": 4116,
       "SP2": 4116,
@@ -4416,7 +4416,7 @@
     }
   },
   "NtGdiCreateEllipticRgn": {
-    "Windows NT": {
+    "Windows NT 4.0": {
       "SP0": 4118,
       "SP1": 4118,
       "SP2": 4118,
@@ -4477,7 +4477,7 @@
     }
   },
   "NtGdiCreateHalftonePalette": {
-    "Windows NT": {
+    "Windows NT 4.0": {
       "SP0": 4119,
       "SP1": 4119,
       "SP2": 4119,
@@ -4538,7 +4538,7 @@
     }
   },
   "NtGdiCreateHatchBrushInternal": {
-    "Windows NT": {
+    "Windows NT 4.0": {
       "SP0": 4120,
       "SP1": 4120,
       "SP2": 4120,
@@ -4599,7 +4599,7 @@
     }
   },
   "NtGdiCreateMetafileDC": {
-    "Windows NT": {
+    "Windows NT 4.0": {
       "SP0": 4121,
       "SP1": 4121,
       "SP2": 4121,
@@ -4707,7 +4707,7 @@
     }
   },
   "NtGdiCreatePaletteInternal": {
-    "Windows NT": {
+    "Windows NT 4.0": {
       "SP0": 4122,
       "SP1": 4122,
       "SP2": 4122,
@@ -4768,7 +4768,7 @@
     }
   },
   "NtGdiCreatePatternBrushInternal": {
-    "Windows NT": {
+    "Windows NT 4.0": {
       "SP0": 4123,
       "SP1": 4123,
       "SP2": 4123,
@@ -4829,7 +4829,7 @@
     }
   },
   "NtGdiCreatePen": {
-    "Windows NT": {
+    "Windows NT 4.0": {
       "SP0": 4124,
       "SP1": 4124,
       "SP2": 4124,
@@ -4890,7 +4890,7 @@
     }
   },
   "NtGdiCreateRectRgn": {
-    "Windows NT": {
+    "Windows NT 4.0": {
       "SP0": 4125,
       "SP1": 4125,
       "SP2": 4125,
@@ -4951,7 +4951,7 @@
     }
   },
   "NtGdiCreateRoundRectRgn": {
-    "Windows NT": {
+    "Windows NT 4.0": {
       "SP0": 4126,
       "SP1": 4126,
       "SP2": 4126,
@@ -5012,7 +5012,7 @@
     }
   },
   "NtGdiCreateServerMetaFile": {
-    "Windows NT": {
+    "Windows NT 4.0": {
       "SP0": 4127,
       "SP1": 4127,
       "SP2": 4127,
@@ -5095,7 +5095,7 @@
     }
   },
   "NtGdiCreateSolidBrush": {
-    "Windows NT": {
+    "Windows NT 4.0": {
       "SP0": 4128,
       "SP1": 4128,
       "SP2": 4128,
@@ -5156,7 +5156,7 @@
     }
   },
   "NtGdiD3dContextCreate": {
-    "Windows NT": {
+    "Windows NT 4.0": {
       "SP3": 4129,
       "SP3 TSE": 4129,
       "SP4": 4129,
@@ -5194,7 +5194,7 @@
     }
   },
   "NtGdiD3dContextDestroy": {
-    "Windows NT": {
+    "Windows NT 4.0": {
       "SP3": 4130,
       "SP3 TSE": 4130,
       "SP4": 4130,
@@ -5232,7 +5232,7 @@
     }
   },
   "NtGdiD3dContextDestroyAll": {
-    "Windows NT": {
+    "Windows NT 4.0": {
       "SP3": 4131,
       "SP3 TSE": 4131,
       "SP4": 4131,
@@ -5301,7 +5301,7 @@
     }
   },
   "NtGdiD3dExecute": {
-    "Windows NT": {
+    "Windows NT 4.0": {
       "SP3": 4133,
       "SP3 TSE": 4133,
       "SP4": 4133,
@@ -5310,7 +5310,7 @@
     }
   },
   "NtGdiD3dExecuteClipped": {
-    "Windows NT": {
+    "Windows NT 4.0": {
       "SP3": 4134,
       "SP3 TSE": 4134,
       "SP4": 4134,
@@ -5319,7 +5319,7 @@
     }
   },
   "NtGdiD3dGetState": {
-    "Windows NT": {
+    "Windows NT 4.0": {
       "SP3": 4151,
       "SP3 TSE": 4151,
       "SP4": 4151,
@@ -5328,7 +5328,7 @@
     }
   },
   "NtGdiD3dLightSet": {
-    "Windows NT": {
+    "Windows NT 4.0": {
       "SP3": 4146,
       "SP3 TSE": 4146,
       "SP4": 4146,
@@ -5337,7 +5337,7 @@
     }
   },
   "NtGdiD3dMaterialCreate": {
-    "Windows NT": {
+    "Windows NT 4.0": {
       "SP3": 4147,
       "SP3 TSE": 4147,
       "SP4": 4147,
@@ -5346,7 +5346,7 @@
     }
   },
   "NtGdiD3dMaterialDestroy": {
-    "Windows NT": {
+    "Windows NT 4.0": {
       "SP3": 4148,
       "SP3 TSE": 4148,
       "SP4": 4148,
@@ -5355,7 +5355,7 @@
     }
   },
   "NtGdiD3dMaterialGetData": {
-    "Windows NT": {
+    "Windows NT 4.0": {
       "SP3": 4150,
       "SP3 TSE": 4150,
       "SP4": 4150,
@@ -5364,7 +5364,7 @@
     }
   },
   "NtGdiD3dMaterialSetData": {
-    "Windows NT": {
+    "Windows NT 4.0": {
       "SP3": 4149,
       "SP3 TSE": 4149,
       "SP4": 4149,
@@ -5373,7 +5373,7 @@
     }
   },
   "NtGdiD3dMatrixCreate": {
-    "Windows NT": {
+    "Windows NT 4.0": {
       "SP3": 4141,
       "SP3 TSE": 4141,
       "SP4": 4141,
@@ -5382,7 +5382,7 @@
     }
   },
   "NtGdiD3dMatrixDestroy": {
-    "Windows NT": {
+    "Windows NT 4.0": {
       "SP3": 4142,
       "SP3 TSE": 4142,
       "SP4": 4142,
@@ -5391,7 +5391,7 @@
     }
   },
   "NtGdiD3dMatrixGetData": {
-    "Windows NT": {
+    "Windows NT 4.0": {
       "SP3": 4144,
       "SP3 TSE": 4144,
       "SP4": 4144,
@@ -5400,7 +5400,7 @@
     }
   },
   "NtGdiD3dMatrixSetData": {
-    "Windows NT": {
+    "Windows NT 4.0": {
       "SP3": 4143,
       "SP3 TSE": 4143,
       "SP4": 4143,
@@ -5409,7 +5409,7 @@
     }
   },
   "NtGdiD3dRenderPrimitive": {
-    "Windows NT": {
+    "Windows NT 4.0": {
       "SP3": 4136,
       "SP3 TSE": 4136,
       "SP4": 4136,
@@ -5418,7 +5418,7 @@
     }
   },
   "NtGdiD3dRenderState": {
-    "Windows NT": {
+    "Windows NT 4.0": {
       "SP3": 4135,
       "SP3 TSE": 4135,
       "SP4": 4135,
@@ -5427,7 +5427,7 @@
     }
   },
   "NtGdiD3dSceneCapture": {
-    "Windows NT": {
+    "Windows NT 4.0": {
       "SP3": 4132,
       "SP3 TSE": 4132,
       "SP4": 4132,
@@ -5436,7 +5436,7 @@
     }
   },
   "NtGdiD3dSetViewportData": {
-    "Windows NT": {
+    "Windows NT 4.0": {
       "SP3": 4145,
       "SP3 TSE": 4145,
       "SP4": 4145,
@@ -5445,7 +5445,7 @@
     }
   },
   "NtGdiD3dTextureCreate": {
-    "Windows NT": {
+    "Windows NT 4.0": {
       "SP3": 4137,
       "SP3 TSE": 4137,
       "SP4": 4137,
@@ -5454,7 +5454,7 @@
     }
   },
   "NtGdiD3dTextureDestroy": {
-    "Windows NT": {
+    "Windows NT 4.0": {
       "SP3": 4138,
       "SP3 TSE": 4138,
       "SP4": 4138,
@@ -5463,7 +5463,7 @@
     }
   },
   "NtGdiD3dTextureGetSurf": {
-    "Windows NT": {
+    "Windows NT 4.0": {
       "SP3": 4140,
       "SP3 TSE": 4140,
       "SP4": 4140,
@@ -5472,7 +5472,7 @@
     }
   },
   "NtGdiD3dTextureSwap": {
-    "Windows NT": {
+    "Windows NT 4.0": {
       "SP3": 4139,
       "SP3 TSE": 4139,
       "SP4": 4139,
@@ -5822,7 +5822,7 @@
     }
   },
   "NtGdiDdBlt": {
-    "Windows NT": {
+    "Windows NT 4.0": {
       "SP0": 4129,
       "SP1": 4129,
       "SP2": 4129,
@@ -5894,7 +5894,7 @@
     }
   },
   "NtGdiDdCanCreateSurface": {
-    "Windows NT": {
+    "Windows NT 4.0": {
       "SP0": 4130,
       "SP1": 4130,
       "SP2": 4130,
@@ -5997,7 +5997,7 @@
     }
   },
   "NtGdiDdCreateDirectDrawObject": {
-    "Windows NT": {
+    "Windows NT 4.0": {
       "SP0": 4131,
       "SP1": 4131,
       "SP2": 4131,
@@ -6095,7 +6095,7 @@
     }
   },
   "NtGdiDdCreateSurface": {
-    "Windows NT": {
+    "Windows NT 4.0": {
       "SP0": 4132,
       "SP1": 4132,
       "SP2": 4132,
@@ -6167,7 +6167,7 @@
     }
   },
   "NtGdiDdCreateSurfaceObject": {
-    "Windows NT": {
+    "Windows NT 4.0": {
       "SP0": 4133,
       "SP1": 4133,
       "SP2": 4133,
@@ -10504,7 +10504,7 @@
     }
   },
   "NtGdiDdDeleteDirectDrawObject": {
-    "Windows NT": {
+    "Windows NT 4.0": {
       "SP0": 4134,
       "SP1": 4134,
       "SP2": 4134,
@@ -10545,7 +10545,7 @@
     }
   },
   "NtGdiDdDeleteSurfaceObject": {
-    "Windows NT": {
+    "Windows NT 4.0": {
       "SP0": 4135,
       "SP1": 4135,
       "SP2": 4135,
@@ -10674,7 +10674,7 @@
     }
   },
   "NtGdiDdDestroySurface": {
-    "Windows NT": {
+    "Windows NT 4.0": {
       "SP0": 4136,
       "SP1": 4136,
       "SP2": 4136,
@@ -10715,14 +10715,14 @@
     }
   },
   "NtGdiDdDisableAllSurfaces": {
-    "Windows NT": {
+    "Windows NT 4.0": {
       "SP0": 4137,
       "SP1": 4137,
       "SP2": 4137
     }
   },
   "NtGdiDdDuplicateSurface": {
-    "Windows NT": {
+    "Windows NT 4.0": {
       "SP0": 4138,
       "SP1": 4138,
       "SP2": 4138
@@ -10760,7 +10760,7 @@
     }
   },
   "NtGdiDdFlip": {
-    "Windows NT": {
+    "Windows NT 4.0": {
       "SP0": 4139,
       "SP1": 4139,
       "SP2": 4139,
@@ -10863,7 +10863,7 @@
     }
   },
   "NtGdiDdGetBltStatus": {
-    "Windows NT": {
+    "Windows NT 4.0": {
       "SP0": 4140,
       "SP1": 4140,
       "SP2": 4140,
@@ -10904,7 +10904,7 @@
     }
   },
   "NtGdiDdGetDC": {
-    "Windows NT": {
+    "Windows NT 4.0": {
       "SP0": 4141,
       "SP1": 4141,
       "SP2": 4141,
@@ -11038,7 +11038,7 @@
     }
   },
   "NtGdiDdGetFlipStatus": {
-    "Windows NT": {
+    "Windows NT 4.0": {
       "SP0": 4142,
       "SP1": 4142,
       "SP2": 4142,
@@ -11203,7 +11203,7 @@
     }
   },
   "NtGdiDdGetScanLine": {
-    "Windows NT": {
+    "Windows NT 4.0": {
       "SP0": 4143,
       "SP1": 4143,
       "SP2": 4143,
@@ -11244,7 +11244,7 @@
     }
   },
   "NtGdiDdLock": {
-    "Windows NT": {
+    "Windows NT 4.0": {
       "SP0": 4144,
       "SP1": 4144,
       "SP2": 4144,
@@ -11342,7 +11342,7 @@
     }
   },
   "NtGdiDdQueryDirectDrawObject": {
-    "Windows NT": {
+    "Windows NT 4.0": {
       "SP0": 4145,
       "SP1": 4145,
       "SP2": 4145,
@@ -11414,7 +11414,7 @@
     }
   },
   "NtGdiDdQueryModeX": {
-    "Windows NT": {
+    "Windows NT 4.0": {
       "SP0": 4146,
       "SP1": 4146,
       "SP2": 4146
@@ -11447,7 +11447,7 @@
     }
   },
   "NtGdiDdReenableDirectDrawObject": {
-    "Windows NT": {
+    "Windows NT 4.0": {
       "SP0": 4147,
       "SP1": 4147,
       "SP2": 4147,
@@ -11488,7 +11488,7 @@
     }
   },
   "NtGdiDdReleaseDC": {
-    "Windows NT": {
+    "Windows NT 4.0": {
       "SP0": 4148,
       "SP1": 4148,
       "SP2": 4148,
@@ -11560,7 +11560,7 @@
     }
   },
   "NtGdiDdResetVisrgn": {
-    "Windows NT": {
+    "Windows NT 4.0": {
       "SP0": 4149,
       "SP1": 4149,
       "SP2": 4149,
@@ -11601,7 +11601,7 @@
     }
   },
   "NtGdiDdSetColorKey": {
-    "Windows NT": {
+    "Windows NT 4.0": {
       "SP0": 4150,
       "SP1": 4150,
       "SP2": 4150,
@@ -11704,14 +11704,14 @@
     }
   },
   "NtGdiDdSetModeX": {
-    "Windows NT": {
+    "Windows NT 4.0": {
       "SP0": 4151,
       "SP1": 4151,
       "SP2": 4151
     }
   },
   "NtGdiDdSetOverlayPosition": {
-    "Windows NT": {
+    "Windows NT 4.0": {
       "SP0": 4152,
       "SP1": 4152,
       "SP2": 4152,
@@ -11783,7 +11783,7 @@
     }
   },
   "NtGdiDdUnlock": {
-    "Windows NT": {
+    "Windows NT 4.0": {
       "SP0": 4153,
       "SP1": 4153,
       "SP2": 4153,
@@ -11855,7 +11855,7 @@
     }
   },
   "NtGdiDdUpdateOverlay": {
-    "Windows NT": {
+    "Windows NT 4.0": {
       "SP0": 4154,
       "SP1": 4154,
       "SP2": 4154,
@@ -11896,7 +11896,7 @@
     }
   },
   "NtGdiDdWaitForVerticalBlank": {
-    "Windows NT": {
+    "Windows NT 4.0": {
       "SP0": 4155,
       "SP1": 4155,
       "SP2": 4155,
@@ -11937,7 +11937,7 @@
     }
   },
   "NtGdiDeleteClientObj": {
-    "Windows NT": {
+    "Windows NT 4.0": {
       "SP0": 4156,
       "SP1": 4156,
       "SP2": 4156,
@@ -12100,7 +12100,7 @@
     }
   },
   "NtGdiDeleteObjectApp": {
-    "Windows NT": {
+    "Windows NT 4.0": {
       "SP0": 4157,
       "SP1": 4157,
       "SP2": 4157,
@@ -12161,7 +12161,7 @@
     }
   },
   "NtGdiDescribePixelFormat": {
-    "Windows NT": {
+    "Windows NT 4.0": {
       "SP0": 4158,
       "SP1": 4158,
       "SP2": 4158,
@@ -12284,7 +12284,7 @@
     }
   },
   "NtGdiDoBanding": {
-    "Windows NT": {
+    "Windows NT 4.0": {
       "SP0": 4159,
       "SP1": 4159,
       "SP2": 4159,
@@ -12345,7 +12345,7 @@
     }
   },
   "NtGdiDoPalette": {
-    "Windows NT": {
+    "Windows NT 4.0": {
       "SP0": 4160,
       "SP1": 4160,
       "SP2": 4160,
@@ -12406,7 +12406,7 @@
     }
   },
   "NtGdiDrawEscape": {
-    "Windows NT": {
+    "Windows NT 4.0": {
       "SP0": 4161,
       "SP1": 4161,
       "SP2": 4161,
@@ -13084,7 +13084,7 @@
     }
   },
   "NtGdiEllipse": {
-    "Windows NT": {
+    "Windows NT 4.0": {
       "SP0": 4162,
       "SP1": 4162,
       "SP2": 4162,
@@ -13196,7 +13196,7 @@
     }
   },
   "NtGdiEndDoc": {
-    "Windows NT": {
+    "Windows NT 4.0": {
       "SP0": 4163,
       "SP1": 4163,
       "SP2": 4163,
@@ -13283,7 +13283,7 @@
     }
   },
   "NtGdiEndPage": {
-    "Windows NT": {
+    "Windows NT 4.0": {
       "SP0": 4164,
       "SP1": 4164,
       "SP2": 4164,
@@ -13344,7 +13344,7 @@
     }
   },
   "NtGdiEndPath": {
-    "Windows NT": {
+    "Windows NT 4.0": {
       "SP0": 4165,
       "SP1": 4165,
       "SP2": 4165,
@@ -14949,7 +14949,7 @@
     }
   },
   "NtGdiEnumFontChunk": {
-    "Windows NT": {
+    "Windows NT 4.0": {
       "SP0": 4166,
       "SP1": 4166,
       "SP2": 4166,
@@ -14986,7 +14986,7 @@
     }
   },
   "NtGdiEnumFontClose": {
-    "Windows NT": {
+    "Windows NT 4.0": {
       "SP0": 4167,
       "SP1": 4167,
       "SP2": 4167,
@@ -15023,7 +15023,7 @@
     }
   },
   "NtGdiEnumFontOpen": {
-    "Windows NT": {
+    "Windows NT 4.0": {
       "SP0": 4168,
       "SP1": 4168,
       "SP2": 4168,
@@ -15086,7 +15086,7 @@
     }
   },
   "NtGdiEnumObjects": {
-    "Windows NT": {
+    "Windows NT 4.0": {
       "SP0": 4169,
       "SP1": 4169,
       "SP2": 4169,
@@ -15147,7 +15147,7 @@
     }
   },
   "NtGdiEqualRgn": {
-    "Windows NT": {
+    "Windows NT 4.0": {
       "SP0": 4170,
       "SP1": 4170,
       "SP2": 4170,
@@ -15268,7 +15268,7 @@
     }
   },
   "NtGdiExcludeClipRect": {
-    "Windows NT": {
+    "Windows NT 4.0": {
       "SP0": 4171,
       "SP1": 4171,
       "SP2": 4171,
@@ -15329,7 +15329,7 @@
     }
   },
   "NtGdiExtCreatePen": {
-    "Windows NT": {
+    "Windows NT 4.0": {
       "SP0": 4172,
       "SP1": 4172,
       "SP2": 4172,
@@ -15390,7 +15390,7 @@
     }
   },
   "NtGdiExtCreateRegion": {
-    "Windows NT": {
+    "Windows NT 4.0": {
       "SP0": 4173,
       "SP1": 4173,
       "SP2": 4173,
@@ -15451,7 +15451,7 @@
     }
   },
   "NtGdiExtEscape": {
-    "Windows NT": {
+    "Windows NT 4.0": {
       "SP0": 4174,
       "SP1": 4174,
       "SP2": 4174,
@@ -15512,7 +15512,7 @@
     }
   },
   "NtGdiExtFloodFill": {
-    "Windows NT": {
+    "Windows NT 4.0": {
       "SP0": 4175,
       "SP1": 4175,
       "SP2": 4175,
@@ -15573,7 +15573,7 @@
     }
   },
   "NtGdiExtGetObjectW": {
-    "Windows NT": {
+    "Windows NT 4.0": {
       "SP0": 4176,
       "SP1": 4176,
       "SP2": 4176,
@@ -15634,7 +15634,7 @@
     }
   },
   "NtGdiExtSelectClipRgn": {
-    "Windows NT": {
+    "Windows NT 4.0": {
       "SP0": 4177,
       "SP1": 4177,
       "SP2": 4177,
@@ -15695,7 +15695,7 @@
     }
   },
   "NtGdiExtTextOutW": {
-    "Windows NT": {
+    "Windows NT 4.0": {
       "SP0": 4178,
       "SP1": 4178,
       "SP2": 4178,
@@ -16164,7 +16164,7 @@
     }
   },
   "NtGdiFillPath": {
-    "Windows NT": {
+    "Windows NT 4.0": {
       "SP0": 4179,
       "SP1": 4179,
       "SP2": 4179,
@@ -16225,7 +16225,7 @@
     }
   },
   "NtGdiFillRgn": {
-    "Windows NT": {
+    "Windows NT 4.0": {
       "SP0": 4180,
       "SP1": 4180,
       "SP2": 4180,
@@ -16286,7 +16286,7 @@
     }
   },
   "NtGdiFixUpHandle": {
-    "Windows NT": {
+    "Windows NT 4.0": {
       "SP0": 4181,
       "SP1": 4181,
       "SP2": 4181,
@@ -16298,7 +16298,7 @@
     }
   },
   "NtGdiFlattenPath": {
-    "Windows NT": {
+    "Windows NT 4.0": {
       "SP0": 4182,
       "SP1": 4182,
       "SP2": 4182,
@@ -16359,7 +16359,7 @@
     }
   },
   "NtGdiFlush": {
-    "Windows NT": {
+    "Windows NT 4.0": {
       "SP0": 4184,
       "SP1": 4184,
       "SP2": 4184,
@@ -16420,7 +16420,7 @@
     }
   },
   "NtGdiFlushUserBatch": {
-    "Windows NT": {
+    "Windows NT 4.0": {
       "SP0": 4183,
       "SP1": 4183,
       "SP2": 4183,
@@ -16496,7 +16496,7 @@
     }
   },
   "NtGdiForceUFIMapping": {
-    "Windows NT": {
+    "Windows NT 4.0": {
       "SP0": 4185,
       "SP1": 4185,
       "SP2": 4185,
@@ -16557,7 +16557,7 @@
     }
   },
   "NtGdiFrameRgn": {
-    "Windows NT": {
+    "Windows NT 4.0": {
       "SP0": 4186,
       "SP1": 4186,
       "SP2": 4186,
@@ -16669,7 +16669,7 @@
     }
   },
   "NtGdiGetAndSetDCDword": {
-    "Windows NT": {
+    "Windows NT 4.0": {
       "SP0": 4187,
       "SP1": 4187,
       "SP2": 4187,
@@ -16730,7 +16730,7 @@
     }
   },
   "NtGdiGetAppClipBox": {
-    "Windows NT": {
+    "Windows NT 4.0": {
       "SP0": 4188,
       "SP1": 4188,
       "SP2": 4188,
@@ -16806,7 +16806,7 @@
     }
   },
   "NtGdiGetBitmapBits": {
-    "Windows NT": {
+    "Windows NT 4.0": {
       "SP0": 4189,
       "SP1": 4189,
       "SP2": 4189,
@@ -16867,7 +16867,7 @@
     }
   },
   "NtGdiGetBitmapDimension": {
-    "Windows NT": {
+    "Windows NT 4.0": {
       "SP0": 4190,
       "SP1": 4190,
       "SP2": 4190,
@@ -16943,7 +16943,7 @@
     }
   },
   "NtGdiGetBoundsRect": {
-    "Windows NT": {
+    "Windows NT 4.0": {
       "SP0": 4191,
       "SP1": 4191,
       "SP2": 4191,
@@ -17131,7 +17131,7 @@
     }
   },
   "NtGdiGetCharABCWidthsW": {
-    "Windows NT": {
+    "Windows NT 4.0": {
       "SP0": 4192,
       "SP1": 4192,
       "SP2": 4192,
@@ -17192,7 +17192,7 @@
     }
   },
   "NtGdiGetCharSet": {
-    "Windows NT": {
+    "Windows NT 4.0": {
       "SP0": 4194,
       "SP1": 4194,
       "SP2": 4194,
@@ -17253,7 +17253,7 @@
     }
   },
   "NtGdiGetCharWidthInfo": {
-    "Windows NT": {
+    "Windows NT 4.0": {
       "SP0": 4196,
       "SP1": 4196,
       "SP2": 4196,
@@ -17314,7 +17314,7 @@
     }
   },
   "NtGdiGetCharWidthW": {
-    "Windows NT": {
+    "Windows NT 4.0": {
       "SP0": 4195,
       "SP1": 4195,
       "SP2": 4195,
@@ -17375,7 +17375,7 @@
     }
   },
   "NtGdiGetCharacterPlacementW": {
-    "Windows NT": {
+    "Windows NT 4.0": {
       "SP0": 4193,
       "SP1": 4193,
       "SP2": 4193,
@@ -17436,7 +17436,7 @@
     }
   },
   "NtGdiGetColorAdjustment": {
-    "Windows NT": {
+    "Windows NT 4.0": {
       "SP0": 4197,
       "SP1": 4197,
       "SP2": 4197,
@@ -17584,7 +17584,7 @@
     }
   },
   "NtGdiGetDCDword": {
-    "Windows NT": {
+    "Windows NT 4.0": {
       "SP0": 4198,
       "SP1": 4198,
       "SP2": 4198,
@@ -17645,7 +17645,7 @@
     }
   },
   "NtGdiGetDCObject": {
-    "Windows NT": {
+    "Windows NT 4.0": {
       "SP0": 4200,
       "SP1": 4200,
       "SP2": 4200,
@@ -17706,7 +17706,7 @@
     }
   },
   "NtGdiGetDCPoint": {
-    "Windows NT": {
+    "Windows NT 4.0": {
       "SP0": 4201,
       "SP1": 4201,
       "SP2": 4201,
@@ -17767,7 +17767,7 @@
     }
   },
   "NtGdiGetDCforBitmap": {
-    "Windows NT": {
+    "Windows NT 4.0": {
       "SP0": 4199,
       "SP1": 4199,
       "SP2": 4199,
@@ -17828,7 +17828,7 @@
     }
   },
   "NtGdiGetDIBitsInternal": {
-    "Windows NT": {
+    "Windows NT 4.0": {
       "SP0": 4204,
       "SP1": 4204,
       "SP2": 4204,
@@ -17889,7 +17889,7 @@
     }
   },
   "NtGdiGetDeviceCaps": {
-    "Windows NT": {
+    "Windows NT 4.0": {
       "SP0": 4202,
       "SP1": 4202,
       "SP2": 4202,
@@ -17950,7 +17950,7 @@
     }
   },
   "NtGdiGetDeviceCapsAll": {
-    "Windows NT": {
+    "Windows NT 4.0": {
       "SP0": 4203,
       "SP1": 4203,
       "SP2": 4203,
@@ -18164,7 +18164,7 @@
     }
   },
   "NtGdiGetETM": {
-    "Windows NT": {
+    "Windows NT 4.0": {
       "SP0": 4205,
       "SP1": 4205,
       "SP2": 4205,
@@ -18380,7 +18380,7 @@
     }
   },
   "NtGdiGetFontData": {
-    "Windows NT": {
+    "Windows NT 4.0": {
       "SP0": 4206,
       "SP1": 4206,
       "SP2": 4206,
@@ -18493,7 +18493,7 @@
     }
   },
   "NtGdiGetFontResourceInfoInternalW": {
-    "Windows NT": {
+    "Windows NT 4.0": {
       "SP0": 4207,
       "SP1": 4207,
       "SP2": 4207,
@@ -18722,7 +18722,7 @@
     }
   },
   "NtGdiGetGlyphOutline": {
-    "Windows NT": {
+    "Windows NT 4.0": {
       "SP0": 4208,
       "SP1": 4208,
       "SP2": 4208,
@@ -18783,7 +18783,7 @@
     }
   },
   "NtGdiGetKerningPairs": {
-    "Windows NT": {
+    "Windows NT 4.0": {
       "SP0": 4209,
       "SP1": 4209,
       "SP2": 4209,
@@ -18895,7 +18895,7 @@
     }
   },
   "NtGdiGetMiterLimit": {
-    "Windows NT": {
+    "Windows NT 4.0": {
       "SP0": 4210,
       "SP1": 4210,
       "SP2": 4210,
@@ -19007,7 +19007,7 @@
     }
   },
   "NtGdiGetNearestColor": {
-    "Windows NT": {
+    "Windows NT 4.0": {
       "SP0": 4211,
       "SP1": 4211,
       "SP2": 4211,
@@ -19068,7 +19068,7 @@
     }
   },
   "NtGdiGetNearestPaletteIndex": {
-    "Windows NT": {
+    "Windows NT 4.0": {
       "SP0": 4212,
       "SP1": 4212,
       "SP2": 4212,
@@ -19222,7 +19222,7 @@
     }
   },
   "NtGdiGetObjectBitmapHandle": {
-    "Windows NT": {
+    "Windows NT 4.0": {
       "SP0": 4213,
       "SP1": 4213,
       "SP2": 4213,
@@ -19283,7 +19283,7 @@
     }
   },
   "NtGdiGetOutlineTextMetricsInternalW": {
-    "Windows NT": {
+    "Windows NT 4.0": {
       "SP0": 4214,
       "SP1": 4214,
       "SP2": 4214,
@@ -19344,7 +19344,7 @@
     }
   },
   "NtGdiGetPath": {
-    "Windows NT": {
+    "Windows NT 4.0": {
       "SP0": 4215,
       "SP1": 4215,
       "SP2": 4215,
@@ -19518,7 +19518,7 @@
     }
   },
   "NtGdiGetPixel": {
-    "Windows NT": {
+    "Windows NT 4.0": {
       "SP0": 4216,
       "SP1": 4216,
       "SP2": 4216,
@@ -19611,7 +19611,7 @@
     }
   },
   "NtGdiGetRandomRgn": {
-    "Windows NT": {
+    "Windows NT 4.0": {
       "SP0": 4217,
       "SP1": 4217,
       "SP2": 4217,
@@ -19672,7 +19672,7 @@
     }
   },
   "NtGdiGetRasterizerCaps": {
-    "Windows NT": {
+    "Windows NT 4.0": {
       "SP0": 4218,
       "SP1": 4218,
       "SP2": 4218,
@@ -19784,7 +19784,7 @@
     }
   },
   "NtGdiGetRegionData": {
-    "Windows NT": {
+    "Windows NT 4.0": {
       "SP0": 4219,
       "SP1": 4219,
       "SP2": 4219,
@@ -19845,7 +19845,7 @@
     }
   },
   "NtGdiGetRgnBox": {
-    "Windows NT": {
+    "Windows NT 4.0": {
       "SP0": 4220,
       "SP1": 4220,
       "SP2": 4220,
@@ -19906,7 +19906,7 @@
     }
   },
   "NtGdiGetServerMetaFileBits": {
-    "Windows NT": {
+    "Windows NT 4.0": {
       "SP0": 4221,
       "SP1": 4221,
       "SP2": 4221,
@@ -19967,7 +19967,7 @@
     }
   },
   "NtGdiGetSpoolMessage": {
-    "Windows NT": {
+    "Windows NT 4.0": {
       "SP0": 4222,
       "SP1": 4222,
       "SP2": 4222,
@@ -20028,7 +20028,7 @@
     }
   },
   "NtGdiGetStats": {
-    "Windows NT": {
+    "Windows NT 4.0": {
       "SP0": 4223,
       "SP1": 4223,
       "SP2": 4223,
@@ -20089,7 +20089,7 @@
     }
   },
   "NtGdiGetStockObject": {
-    "Windows NT": {
+    "Windows NT 4.0": {
       "SP0": 4224,
       "SP1": 4224,
       "SP2": 4224,
@@ -20220,7 +20220,7 @@
     }
   },
   "NtGdiGetSystemPaletteUse": {
-    "Windows NT": {
+    "Windows NT 4.0": {
       "SP0": 4225,
       "SP1": 4225,
       "SP2": 4225,
@@ -20281,7 +20281,7 @@
     }
   },
   "NtGdiGetTextCharsetInfo": {
-    "Windows NT": {
+    "Windows NT 4.0": {
       "SP0": 4226,
       "SP1": 4226,
       "SP2": 4226,
@@ -20342,7 +20342,7 @@
     }
   },
   "NtGdiGetTextExtent": {
-    "Windows NT": {
+    "Windows NT 4.0": {
       "SP0": 4227,
       "SP1": 4227,
       "SP2": 4227,
@@ -20403,7 +20403,7 @@
     }
   },
   "NtGdiGetTextExtentExW": {
-    "Windows NT": {
+    "Windows NT 4.0": {
       "SP0": 4228,
       "SP1": 4228,
       "SP2": 4228,
@@ -20464,7 +20464,7 @@
     }
   },
   "NtGdiGetTextFaceW": {
-    "Windows NT": {
+    "Windows NT 4.0": {
       "SP0": 4229,
       "SP1": 4229,
       "SP2": 4229,
@@ -20525,7 +20525,7 @@
     }
   },
   "NtGdiGetTextMetricsW": {
-    "Windows NT": {
+    "Windows NT 4.0": {
       "SP0": 4230,
       "SP1": 4230,
       "SP2": 4230,
@@ -20586,7 +20586,7 @@
     }
   },
   "NtGdiGetTransform": {
-    "Windows NT": {
+    "Windows NT 4.0": {
       "SP0": 4231,
       "SP1": 4231,
       "SP2": 4231,
@@ -20647,7 +20647,7 @@
     }
   },
   "NtGdiGetUFI": {
-    "Windows NT": {
+    "Windows NT 4.0": {
       "SP0": 4232,
       "SP1": 4232,
       "SP2": 4232,
@@ -20708,7 +20708,7 @@
     }
   },
   "NtGdiGetUFIBits": {
-    "Windows NT": {
+    "Windows NT 4.0": {
       "SP0": 4233,
       "SP1": 4233,
       "SP2": 4233,
@@ -20771,7 +20771,7 @@
     }
   },
   "NtGdiGetWidthTable": {
-    "Windows NT": {
+    "Windows NT 4.0": {
       "SP0": 4234,
       "SP1": 4234,
       "SP2": 4234,
@@ -21037,7 +21037,7 @@
     }
   },
   "NtGdiHfontCreate": {
-    "Windows NT": {
+    "Windows NT 4.0": {
       "SP0": 4235,
       "SP1": 4235,
       "SP2": 4235,
@@ -21149,7 +21149,7 @@
     }
   },
   "NtGdiInit": {
-    "Windows NT": {
+    "Windows NT 4.0": {
       "SP0": 4236,
       "SP1": 4236,
       "SP2": 4236,
@@ -21210,7 +21210,7 @@
     }
   },
   "NtGdiInitSpool": {
-    "Windows NT": {
+    "Windows NT 4.0": {
       "SP0": 4237,
       "SP1": 4237,
       "SP2": 4237,
@@ -21271,7 +21271,7 @@
     }
   },
   "NtGdiIntersectClipRect": {
-    "Windows NT": {
+    "Windows NT 4.0": {
       "SP0": 4238,
       "SP1": 4238,
       "SP2": 4238,
@@ -21332,7 +21332,7 @@
     }
   },
   "NtGdiInvertRgn": {
-    "Windows NT": {
+    "Windows NT 4.0": {
       "SP0": 4239,
       "SP1": 4239,
       "SP2": 4239,
@@ -21393,7 +21393,7 @@
     }
   },
   "NtGdiLineTo": {
-    "Windows NT": {
+    "Windows NT 4.0": {
       "SP0": 4240,
       "SP1": 4240,
       "SP2": 4240,
@@ -21454,7 +21454,7 @@
     }
   },
   "NtGdiMakeFontDir": {
-    "Windows NT": {
+    "Windows NT 4.0": {
       "SP0": 4241,
       "SP1": 4241,
       "SP2": 4241,
@@ -21515,7 +21515,7 @@
     }
   },
   "NtGdiMakeInfoDC": {
-    "Windows NT": {
+    "Windows NT 4.0": {
       "SP0": 4242,
       "SP1": 4242,
       "SP2": 4242,
@@ -21650,7 +21650,7 @@
     }
   },
   "NtGdiMaskBlt": {
-    "Windows NT": {
+    "Windows NT 4.0": {
       "SP0": 4243,
       "SP1": 4243,
       "SP2": 4243,
@@ -21762,7 +21762,7 @@
     }
   },
   "NtGdiModifyWorldTransform": {
-    "Windows NT": {
+    "Windows NT 4.0": {
       "SP0": 4244,
       "SP1": 4244,
       "SP2": 4244,
@@ -21823,7 +21823,7 @@
     }
   },
   "NtGdiMonoBitmap": {
-    "Windows NT": {
+    "Windows NT 4.0": {
       "SP0": 4245,
       "SP1": 4245,
       "SP2": 4245,
@@ -21884,7 +21884,7 @@
     }
   },
   "NtGdiMoveTo": {
-    "Windows NT": {
+    "Windows NT 4.0": {
       "SP0": 4246,
       "SP1": 4246,
       "SP2": 4246,
@@ -21945,7 +21945,7 @@
     }
   },
   "NtGdiOffsetClipRgn": {
-    "Windows NT": {
+    "Windows NT 4.0": {
       "SP0": 4247,
       "SP1": 4247,
       "SP2": 4247,
@@ -22006,7 +22006,7 @@
     }
   },
   "NtGdiOffsetRgn": {
-    "Windows NT": {
+    "Windows NT 4.0": {
       "SP0": 4248,
       "SP1": 4248,
       "SP2": 4248,
@@ -22067,7 +22067,7 @@
     }
   },
   "NtGdiOpenDCW": {
-    "Windows NT": {
+    "Windows NT 4.0": {
       "SP0": 4249,
       "SP1": 4249,
       "SP2": 4249,
@@ -22383,7 +22383,7 @@
     }
   },
   "NtGdiPatBlt": {
-    "Windows NT": {
+    "Windows NT 4.0": {
       "SP0": 4250,
       "SP1": 4250,
       "SP2": 4250,
@@ -22444,7 +22444,7 @@
     }
   },
   "NtGdiPathToRegion": {
-    "Windows NT": {
+    "Windows NT 4.0": {
       "SP0": 4253,
       "SP1": 4253,
       "SP2": 4253,
@@ -22505,7 +22505,7 @@
     }
   },
   "NtGdiPerf": {
-    "Windows NT": {
+    "Windows NT 4.0": {
       "SP0": 4251,
       "SP1": 4251,
       "SP2": 4251,
@@ -22517,7 +22517,7 @@
     }
   },
   "NtGdiPlgBlt": {
-    "Windows NT": {
+    "Windows NT 4.0": {
       "SP0": 4254,
       "SP1": 4254,
       "SP2": 4254,
@@ -22578,7 +22578,7 @@
     }
   },
   "NtGdiPolyDraw": {
-    "Windows NT": {
+    "Windows NT 4.0": {
       "SP0": 4255,
       "SP1": 4255,
       "SP2": 4255,
@@ -22639,7 +22639,7 @@
     }
   },
   "NtGdiPolyPatBlt": {
-    "Windows NT": {
+    "Windows NT 4.0": {
       "SP0": 4252,
       "SP1": 4252,
       "SP2": 4252,
@@ -22700,7 +22700,7 @@
     }
   },
   "NtGdiPolyPolyDraw": {
-    "Windows NT": {
+    "Windows NT 4.0": {
       "SP0": 4256,
       "SP1": 4256,
       "SP2": 4256,
@@ -22761,7 +22761,7 @@
     }
   },
   "NtGdiPolyTextOutW": {
-    "Windows NT": {
+    "Windows NT 4.0": {
       "SP0": 4257,
       "SP1": 4257,
       "SP2": 4257,
@@ -22822,7 +22822,7 @@
     }
   },
   "NtGdiPtInRegion": {
-    "Windows NT": {
+    "Windows NT 4.0": {
       "SP0": 4258,
       "SP1": 4258,
       "SP2": 4258,
@@ -22883,7 +22883,7 @@
     }
   },
   "NtGdiPtVisible": {
-    "Windows NT": {
+    "Windows NT 4.0": {
       "SP0": 4259,
       "SP1": 4259,
       "SP2": 4259,
@@ -22995,7 +22995,7 @@
     }
   },
   "NtGdiQueryFonts": {
-    "Windows NT": {
+    "Windows NT 4.0": {
       "SP0": 4260,
       "SP1": 4260,
       "SP2": 4260,
@@ -23056,7 +23056,7 @@
     }
   },
   "NtGdiRectInRegion": {
-    "Windows NT": {
+    "Windows NT 4.0": {
       "SP0": 4262,
       "SP1": 4262,
       "SP2": 4262,
@@ -23117,7 +23117,7 @@
     }
   },
   "NtGdiRectVisible": {
-    "Windows NT": {
+    "Windows NT 4.0": {
       "SP0": 4263,
       "SP1": 4263,
       "SP2": 4263,
@@ -23178,7 +23178,7 @@
     }
   },
   "NtGdiRectangle": {
-    "Windows NT": {
+    "Windows NT 4.0": {
       "SP0": 4261,
       "SP1": 4261,
       "SP2": 4261,
@@ -23290,7 +23290,7 @@
     }
   },
   "NtGdiRemoveFontResourceW": {
-    "Windows NT": {
+    "Windows NT 4.0": {
       "SP0": 4264,
       "SP1": 4264,
       "SP2": 4264,
@@ -23402,7 +23402,7 @@
     }
   },
   "NtGdiResetDC": {
-    "Windows NT": {
+    "Windows NT 4.0": {
       "SP0": 4265,
       "SP1": 4265,
       "SP2": 4265,
@@ -23463,7 +23463,7 @@
     }
   },
   "NtGdiResizePalette": {
-    "Windows NT": {
+    "Windows NT 4.0": {
       "SP0": 4266,
       "SP1": 4266,
       "SP2": 4266,
@@ -23524,7 +23524,7 @@
     }
   },
   "NtGdiRestoreDC": {
-    "Windows NT": {
+    "Windows NT 4.0": {
       "SP0": 4267,
       "SP1": 4267,
       "SP2": 4267,
@@ -23585,7 +23585,7 @@
     }
   },
   "NtGdiRoundRect": {
-    "Windows NT": {
+    "Windows NT 4.0": {
       "SP0": 4268,
       "SP1": 4268,
       "SP2": 4268,
@@ -23901,7 +23901,7 @@
     }
   },
   "NtGdiSaveDC": {
-    "Windows NT": {
+    "Windows NT 4.0": {
       "SP0": 4269,
       "SP1": 4269,
       "SP2": 4269,
@@ -23992,7 +23992,7 @@
     }
   },
   "NtGdiScaleViewportExtEx": {
-    "Windows NT": {
+    "Windows NT 4.0": {
       "SP0": 4270,
       "SP1": 4270,
       "SP2": 4270,
@@ -24053,7 +24053,7 @@
     }
   },
   "NtGdiScaleWindowExtEx": {
-    "Windows NT": {
+    "Windows NT 4.0": {
       "SP0": 4271,
       "SP1": 4271,
       "SP2": 4271,
@@ -24114,7 +24114,7 @@
     }
   },
   "NtGdiSelectBitmap": {
-    "Windows NT": {
+    "Windows NT 4.0": {
       "SP0": 4272,
       "SP1": 4272,
       "SP2": 4272,
@@ -24175,7 +24175,7 @@
     }
   },
   "NtGdiSelectBrush": {
-    "Windows NT": {
+    "Windows NT 4.0": {
       "SP0": 4273,
       "SP1": 4273,
       "SP2": 4273,
@@ -24236,7 +24236,7 @@
     }
   },
   "NtGdiSelectClipPath": {
-    "Windows NT": {
+    "Windows NT 4.0": {
       "SP0": 4274,
       "SP1": 4274,
       "SP2": 4274,
@@ -24297,7 +24297,7 @@
     }
   },
   "NtGdiSelectFont": {
-    "Windows NT": {
+    "Windows NT 4.0": {
       "SP0": 4275,
       "SP1": 4275,
       "SP2": 4275,
@@ -24358,7 +24358,7 @@
     }
   },
   "NtGdiSelectPalette": {
-    "Windows NT": {
+    "Windows NT 4.0": {
       "SP0": 4276,
       "SP1": 4276,
       "SP2": 4276,
@@ -24370,7 +24370,7 @@
     }
   },
   "NtGdiSelectPen": {
-    "Windows NT": {
+    "Windows NT 4.0": {
       "SP0": 4277,
       "SP1": 4277,
       "SP2": 4277,
@@ -24475,7 +24475,7 @@
     }
   },
   "NtGdiSetBitmapBits": {
-    "Windows NT": {
+    "Windows NT 4.0": {
       "SP0": 4278,
       "SP1": 4278,
       "SP2": 4278,
@@ -24536,7 +24536,7 @@
     }
   },
   "NtGdiSetBitmapDimension": {
-    "Windows NT": {
+    "Windows NT 4.0": {
       "SP0": 4279,
       "SP1": 4279,
       "SP2": 4279,
@@ -24597,7 +24597,7 @@
     }
   },
   "NtGdiSetBoundsRect": {
-    "Windows NT": {
+    "Windows NT 4.0": {
       "SP0": 4280,
       "SP1": 4280,
       "SP2": 4280,
@@ -24702,7 +24702,7 @@
     }
   },
   "NtGdiSetBrushOrg": {
-    "Windows NT": {
+    "Windows NT 4.0": {
       "SP0": 4281,
       "SP1": 4281,
       "SP2": 4281,
@@ -24763,7 +24763,7 @@
     }
   },
   "NtGdiSetColorAdjustment": {
-    "Windows NT": {
+    "Windows NT 4.0": {
       "SP0": 4282,
       "SP1": 4282,
       "SP2": 4282,
@@ -24875,7 +24875,7 @@
     }
   },
   "NtGdiSetDIBitsToDeviceInternal": {
-    "Windows NT": {
+    "Windows NT 4.0": {
       "SP0": 4283,
       "SP1": 4283,
       "SP2": 4283,
@@ -24987,7 +24987,7 @@
     }
   },
   "NtGdiSetFontEnumeration": {
-    "Windows NT": {
+    "Windows NT 4.0": {
       "SP0": 4284,
       "SP1": 4284,
       "SP2": 4284,
@@ -25048,7 +25048,7 @@
     }
   },
   "NtGdiSetFontXform": {
-    "Windows NT": {
+    "Windows NT 4.0": {
       "SP0": 4285,
       "SP1": 4285,
       "SP2": 4285,
@@ -25262,7 +25262,7 @@
     }
   },
   "NtGdiSetMagicColors": {
-    "Windows NT": {
+    "Windows NT 4.0": {
       "SP0": 4286,
       "SP1": 4286,
       "SP2": 4286,
@@ -25323,7 +25323,7 @@
     }
   },
   "NtGdiSetMetaRgn": {
-    "Windows NT": {
+    "Windows NT 4.0": {
       "SP0": 4287,
       "SP1": 4287,
       "SP2": 4287,
@@ -25384,7 +25384,7 @@
     }
   },
   "NtGdiSetMiterLimit": {
-    "Windows NT": {
+    "Windows NT 4.0": {
       "SP0": 4288,
       "SP1": 4288,
       "SP2": 4288,
@@ -25520,7 +25520,7 @@
     }
   },
   "NtGdiSetPixel": {
-    "Windows NT": {
+    "Windows NT 4.0": {
       "SP0": 4289,
       "SP1": 4289,
       "SP2": 4289,
@@ -25581,7 +25581,7 @@
     }
   },
   "NtGdiSetPixelFormat": {
-    "Windows NT": {
+    "Windows NT 4.0": {
       "SP0": 4290,
       "SP1": 4290,
       "SP2": 4290,
@@ -25657,7 +25657,7 @@
     }
   },
   "NtGdiSetRectRgn": {
-    "Windows NT": {
+    "Windows NT 4.0": {
       "SP0": 4291,
       "SP1": 4291,
       "SP2": 4291,
@@ -25769,7 +25769,7 @@
     }
   },
   "NtGdiSetSystemPaletteUse": {
-    "Windows NT": {
+    "Windows NT 4.0": {
       "SP0": 4292,
       "SP1": 4292,
       "SP2": 4292,
@@ -25830,7 +25830,7 @@
     }
   },
   "NtGdiSetTextCharacterExtra": {
-    "Windows NT": {
+    "Windows NT 4.0": {
       "SP0": 4293,
       "SP1": 4293,
       "SP2": 4293,
@@ -25842,7 +25842,7 @@
     }
   },
   "NtGdiSetTextJustification": {
-    "Windows NT": {
+    "Windows NT 4.0": {
       "SP0": 4294,
       "SP1": 4294,
       "SP2": 4294,
@@ -25925,7 +25925,7 @@
     }
   },
   "NtGdiSetVirtualResolution": {
-    "Windows NT": {
+    "Windows NT 4.0": {
       "SP0": 4296,
       "SP1": 4296,
       "SP2": 4296,
@@ -25986,7 +25986,7 @@
     }
   },
   "NtGdiSetupPublicCFONT": {
-    "Windows NT": {
+    "Windows NT 4.0": {
       "SP0": 4295,
       "SP1": 4295,
       "SP2": 4295,
@@ -26029,7 +26029,7 @@
     }
   },
   "NtGdiStartDoc": {
-    "Windows NT": {
+    "Windows NT 4.0": {
       "SP0": 4297,
       "SP1": 4297,
       "SP2": 4297,
@@ -26090,7 +26090,7 @@
     }
   },
   "NtGdiStartPage": {
-    "Windows NT": {
+    "Windows NT 4.0": {
       "SP0": 4298,
       "SP1": 4298,
       "SP2": 4298,
@@ -26151,7 +26151,7 @@
     }
   },
   "NtGdiStretchBlt": {
-    "Windows NT": {
+    "Windows NT 4.0": {
       "SP0": 4299,
       "SP1": 4299,
       "SP2": 4299,
@@ -26212,7 +26212,7 @@
     }
   },
   "NtGdiStretchDIBitsInternal": {
-    "Windows NT": {
+    "Windows NT 4.0": {
       "SP0": 4300,
       "SP1": 4300,
       "SP2": 4300,
@@ -26273,7 +26273,7 @@
     }
   },
   "NtGdiStrokeAndFillPath": {
-    "Windows NT": {
+    "Windows NT 4.0": {
       "SP0": 4301,
       "SP1": 4301,
       "SP2": 4301,
@@ -26334,7 +26334,7 @@
     }
   },
   "NtGdiStrokePath": {
-    "Windows NT": {
+    "Windows NT 4.0": {
       "SP0": 4302,
       "SP1": 4302,
       "SP2": 4302,
@@ -26395,7 +26395,7 @@
     }
   },
   "NtGdiSwapBuffers": {
-    "Windows NT": {
+    "Windows NT 4.0": {
       "SP0": 4303,
       "SP1": 4303,
       "SP2": 4303,
@@ -26456,7 +26456,7 @@
     }
   },
   "NtGdiTransformPoints": {
-    "Windows NT": {
+    "Windows NT 4.0": {
       "SP0": 4304,
       "SP1": 4304,
       "SP2": 4304,
@@ -26714,7 +26714,7 @@
     }
   },
   "NtGdiUnrealizeObject": {
-    "Windows NT": {
+    "Windows NT 4.0": {
       "SP0": 4305,
       "SP1": 4305,
       "SP2": 4305,
@@ -26775,7 +26775,7 @@
     }
   },
   "NtGdiUpdateColors": {
-    "Windows NT": {
+    "Windows NT 4.0": {
       "SP0": 4306,
       "SP1": 4306,
       "SP2": 4306,
@@ -26836,7 +26836,7 @@
     }
   },
   "NtGdiUpdateTransform": {
-    "Windows NT": {
+    "Windows NT 4.0": {
       "SP4": 4327,
       "SP5": 4327,
       "SP6": 4327
@@ -26892,7 +26892,7 @@
     }
   },
   "NtGdiWidenPath": {
-    "Windows NT": {
+    "Windows NT 4.0": {
       "SP0": 4307,
       "SP1": 4307,
       "SP2": 4307,
@@ -28853,7 +28853,7 @@
     }
   },
   "NtUserActivateKeyboardLayout": {
-    "Windows NT": {
+    "Windows NT 4.0": {
       "SP0": 4308,
       "SP1": 4308,
       "SP2": 4308,
@@ -28956,7 +28956,7 @@
     }
   },
   "NtUserAlterWindowStyle": {
-    "Windows NT": {
+    "Windows NT 4.0": {
       "SP0": 4309,
       "SP1": 4309,
       "SP2": 4309,
@@ -29068,7 +29068,7 @@
     }
   },
   "NtUserAttachThreadInput": {
-    "Windows NT": {
+    "Windows NT 4.0": {
       "SP0": 4310,
       "SP1": 4310,
       "SP2": 4310,
@@ -29188,7 +29188,7 @@
     }
   },
   "NtUserBeginPaint": {
-    "Windows NT": {
+    "Windows NT 4.0": {
       "SP0": 4311,
       "SP1": 4311,
       "SP2": 4311,
@@ -29249,7 +29249,7 @@
     }
   },
   "NtUserBitBltSysBmp": {
-    "Windows NT": {
+    "Windows NT 4.0": {
       "SP0": 4312,
       "SP1": 4312,
       "SP2": 4312,
@@ -29310,7 +29310,7 @@
     }
   },
   "NtUserBlockInput": {
-    "Windows NT": {
+    "Windows NT 4.0": {
       "SP6": 4333
     },
     "Windows 2000": {
@@ -29364,7 +29364,7 @@
     }
   },
   "NtUserBreak": {
-    "Windows NT": {
+    "Windows NT 4.0": {
       "SP0": 4313,
       "SP1": 4313,
       "SP2": 4313,
@@ -29443,7 +29443,7 @@
     }
   },
   "NtUserBuildHwndList": {
-    "Windows NT": {
+    "Windows NT 4.0": {
       "SP0": 4314,
       "SP1": 4314,
       "SP2": 4314,
@@ -29504,7 +29504,7 @@
     }
   },
   "NtUserBuildNameList": {
-    "Windows NT": {
+    "Windows NT 4.0": {
       "SP0": 4315,
       "SP1": 4315,
       "SP2": 4315,
@@ -29565,7 +29565,7 @@
     }
   },
   "NtUserBuildPropList": {
-    "Windows NT": {
+    "Windows NT 4.0": {
       "SP0": 4316,
       "SP1": 4316,
       "SP2": 4316,
@@ -29696,7 +29696,7 @@
     }
   },
   "NtUserCallHwnd": {
-    "Windows NT": {
+    "Windows NT 4.0": {
       "SP0": 4317,
       "SP1": 4317,
       "SP2": 4317,
@@ -29757,7 +29757,7 @@
     }
   },
   "NtUserCallHwndLock": {
-    "Windows NT": {
+    "Windows NT 4.0": {
       "SP0": 4318,
       "SP1": 4318,
       "SP2": 4318,
@@ -29830,7 +29830,7 @@
     }
   },
   "NtUserCallHwndOpt": {
-    "Windows NT": {
+    "Windows NT 4.0": {
       "SP0": 4319,
       "SP1": 4319,
       "SP2": 4319,
@@ -29891,7 +29891,7 @@
     }
   },
   "NtUserCallHwndParam": {
-    "Windows NT": {
+    "Windows NT 4.0": {
       "SP0": 4320,
       "SP1": 4320,
       "SP2": 4320,
@@ -29952,7 +29952,7 @@
     }
   },
   "NtUserCallHwndParamLock": {
-    "Windows NT": {
+    "Windows NT 4.0": {
       "SP0": 4321,
       "SP1": 4321,
       "SP2": 4321,
@@ -30037,7 +30037,7 @@
     }
   },
   "NtUserCallMsgFilter": {
-    "Windows NT": {
+    "Windows NT 4.0": {
       "SP0": 4322,
       "SP1": 4322,
       "SP2": 4322,
@@ -30149,7 +30149,7 @@
     }
   },
   "NtUserCallNoParam": {
-    "Windows NT": {
+    "Windows NT 4.0": {
       "SP0": 4323,
       "SP1": 4323,
       "SP2": 4323,
@@ -30210,7 +30210,7 @@
     }
   },
   "NtUserCallNoParamTranslate": {
-    "Windows NT": {
+    "Windows NT 4.0": {
       "SP0": 4324,
       "SP1": 4324,
       "SP2": 4324,
@@ -30222,7 +30222,7 @@
     }
   },
   "NtUserCallOneParam": {
-    "Windows NT": {
+    "Windows NT 4.0": {
       "SP0": 4325,
       "SP1": 4325,
       "SP2": 4325,
@@ -30283,7 +30283,7 @@
     }
   },
   "NtUserCallOneParamTranslate": {
-    "Windows NT": {
+    "Windows NT 4.0": {
       "SP0": 4326,
       "SP1": 4326,
       "SP2": 4326,
@@ -30295,7 +30295,7 @@
     }
   },
   "NtUserCallTwoParam": {
-    "Windows NT": {
+    "Windows NT 4.0": {
       "SP0": 4327,
       "SP1": 4327,
       "SP2": 4327,
@@ -30378,7 +30378,7 @@
     }
   },
   "NtUserChangeClipboardChain": {
-    "Windows NT": {
+    "Windows NT 4.0": {
       "SP0": 4328,
       "SP1": 4328,
       "SP2": 4328,
@@ -30439,7 +30439,7 @@
     }
   },
   "NtUserChangeDisplaySettings": {
-    "Windows NT": {
+    "Windows NT 4.0": {
       "SP0": 4329,
       "SP1": 4329,
       "SP2": 4329,
@@ -30595,7 +30595,7 @@
     }
   },
   "NtUserCheckMenuItem": {
-    "Windows NT": {
+    "Windows NT 4.0": {
       "SP0": 4330,
       "SP1": 4330,
       "SP2": 4330,
@@ -30656,7 +30656,7 @@
     }
   },
   "NtUserCheckMenuRadioItem": {
-    "Windows NT": {
+    "Windows NT 4.0": {
       "SP0": 4331,
       "SP1": 4331,
       "SP2": 4331,
@@ -30743,7 +30743,7 @@
     }
   },
   "NtUserChildWindowFromPointEx": {
-    "Windows NT": {
+    "Windows NT 4.0": {
       "SP0": 4332,
       "SP1": 4332,
       "SP2": 4332,
@@ -30825,7 +30825,7 @@
     }
   },
   "NtUserClipCursor": {
-    "Windows NT": {
+    "Windows NT 4.0": {
       "SP0": 4333,
       "SP1": 4333,
       "SP2": 4333,
@@ -30937,7 +30937,7 @@
     }
   },
   "NtUserCloseDesktop": {
-    "Windows NT": {
+    "Windows NT 4.0": {
       "SP0": 4334,
       "SP1": 4334,
       "SP2": 4334,
@@ -30998,7 +30998,7 @@
     }
   },
   "NtUserCloseWindowStation": {
-    "Windows NT": {
+    "Windows NT 4.0": {
       "SP0": 4335,
       "SP1": 4335,
       "SP2": 4335,
@@ -31121,7 +31121,7 @@
     }
   },
   "NtUserConsoleControl": {
-    "Windows NT": {
+    "Windows NT 4.0": {
       "SP0": 4336,
       "SP1": 4336,
       "SP2": 4336,
@@ -31182,7 +31182,7 @@
     }
   },
   "NtUserConvertMemHandle": {
-    "Windows NT": {
+    "Windows NT 4.0": {
       "SP0": 4337,
       "SP1": 4337,
       "SP2": 4337,
@@ -31243,7 +31243,7 @@
     }
   },
   "NtUserCopyAcceleratorTable": {
-    "Windows NT": {
+    "Windows NT 4.0": {
       "SP0": 4338,
       "SP1": 4338,
       "SP2": 4338,
@@ -31304,7 +31304,7 @@
     }
   },
   "NtUserCountClipboardFormats": {
-    "Windows NT": {
+    "Windows NT 4.0": {
       "SP0": 4339,
       "SP1": 4339,
       "SP2": 4339,
@@ -31365,7 +31365,7 @@
     }
   },
   "NtUserCreateAcceleratorTable": {
-    "Windows NT": {
+    "Windows NT 4.0": {
       "SP0": 4340,
       "SP1": 4340,
       "SP2": 4340,
@@ -31446,7 +31446,7 @@
     }
   },
   "NtUserCreateCaret": {
-    "Windows NT": {
+    "Windows NT 4.0": {
       "SP0": 4341,
       "SP1": 4341,
       "SP2": 4341,
@@ -31529,7 +31529,7 @@
     }
   },
   "NtUserCreateDesktop": {
-    "Windows NT": {
+    "Windows NT 4.0": {
       "SP0": 4342,
       "SP1": 4342,
       "SP2": 4342,
@@ -31657,7 +31657,7 @@
     }
   },
   "NtUserCreateLocalMemHandle": {
-    "Windows NT": {
+    "Windows NT 4.0": {
       "SP0": 4343,
       "SP1": 4343,
       "SP2": 4343,
@@ -31731,7 +31731,7 @@
     }
   },
   "NtUserCreateWindowEx": {
-    "Windows NT": {
+    "Windows NT 4.0": {
       "SP0": 4344,
       "SP1": 4344,
       "SP2": 4344,
@@ -31805,7 +31805,7 @@
     }
   },
   "NtUserCreateWindowStation": {
-    "Windows NT": {
+    "Windows NT 4.0": {
       "SP0": 4345,
       "SP1": 4345,
       "SP2": 4345,
@@ -31866,17 +31866,17 @@
     }
   },
   "NtUserCtxBreakPoint": {
-    "Windows NT": {
+    "Windows NT 4.0": {
       "SP3 TSE": 4622
     }
   },
   "NtUserCtxConnectState": {
-    "Windows NT": {
+    "Windows NT 4.0": {
       "SP3 TSE": 4630
     }
   },
   "NtUserCtxDisplayIOCtl": {
-    "Windows NT": {
+    "Windows NT 4.0": {
       "SP3 TSE": 4631
     },
     "Windows 2000": {
@@ -31930,92 +31930,92 @@
     }
   },
   "NtUserCtxDoConnect": {
-    "Windows NT": {
+    "Windows NT 4.0": {
       "SP3 TSE": 4615
     }
   },
   "NtUserCtxDoDisconnect": {
-    "Windows NT": {
+    "Windows NT 4.0": {
       "SP3 TSE": 4616
     }
   },
   "NtUserCtxDoLogoff": {
-    "Windows NT": {
+    "Windows NT 4.0": {
       "SP3 TSE": 4632
     }
   },
   "NtUserCtxDoReconnect": {
-    "Windows NT": {
+    "Windows NT 4.0": {
       "SP3 TSE": 4617
     }
   },
   "NtUserCtxGetWinstationInfo": {
-    "Windows NT": {
+    "Windows NT 4.0": {
       "SP3 TSE": 4634
     }
   },
   "NtUserCtxInitialProgram": {
-    "Windows NT": {
+    "Windows NT 4.0": {
       "SP3 TSE": 4633
     }
   },
   "NtUserCtxNtSecurity": {
-    "Windows NT": {
+    "Windows NT 4.0": {
       "SP3 TSE": 4623
     }
   },
   "NtUserCtxPassthruDisable": {
-    "Windows NT": {
+    "Windows NT 4.0": {
       "SP3 TSE": 4629
     }
   },
   "NtUserCtxPassthruEnable": {
-    "Windows NT": {
+    "Windows NT 4.0": {
       "SP3 TSE": 4628
     }
   },
   "NtUserCtxRedrawRectangle": {
-    "Windows NT": {
+    "Windows NT 4.0": {
       "SP3 TSE": 4618
     }
   },
   "NtUserCtxRedrawScreen": {
-    "Windows NT": {
+    "Windows NT 4.0": {
       "SP3 TSE": 4619
     }
   },
   "NtUserCtxShadowCleanup": {
-    "Windows NT": {
+    "Windows NT 4.0": {
       "SP3 TSE": 4627
     }
   },
   "NtUserCtxShadowSetup": {
-    "Windows NT": {
+    "Windows NT 4.0": {
       "SP3 TSE": 4624
     }
   },
   "NtUserCtxShadowStart": {
-    "Windows NT": {
+    "Windows NT 4.0": {
       "SP3 TSE": 4625
     }
   },
   "NtUserCtxShadowStop": {
-    "Windows NT": {
+    "Windows NT 4.0": {
       "SP3 TSE": 4626
     }
   },
   "NtUserCtxStopScreenUpdates": {
-    "Windows NT": {
+    "Windows NT 4.0": {
       "SP3 TSE": 4620
     }
   },
   "NtUserCtxThinwireStats": {
-    "Windows NT": {
+    "Windows NT 4.0": {
       "SP3 TSE": 4621
     }
   },
   "NtUserDdeGetQualityOfService": {
-    "Windows NT": {
+    "Windows NT 4.0": {
       "SP0": 4346,
       "SP1": 4346,
       "SP2": 4346,
@@ -32047,7 +32047,7 @@
     }
   },
   "NtUserDdeInitialize": {
-    "Windows NT": {
+    "Windows NT 4.0": {
       "SP0": 4347,
       "SP1": 4347,
       "SP2": 4347,
@@ -32108,7 +32108,7 @@
     }
   },
   "NtUserDdeSetQualityOfService": {
-    "Windows NT": {
+    "Windows NT 4.0": {
       "SP0": 4348,
       "SP1": 4348,
       "SP2": 4348,
@@ -32140,7 +32140,7 @@
     }
   },
   "NtUserDefSetText": {
-    "Windows NT": {
+    "Windows NT 4.0": {
       "SP0": 4350,
       "SP1": 4350,
       "SP2": 4350,
@@ -32213,7 +32213,7 @@
     }
   },
   "NtUserDeferWindowPos": {
-    "Windows NT": {
+    "Windows NT 4.0": {
       "SP0": 4349,
       "SP1": 4349,
       "SP2": 4349,
@@ -32320,7 +32320,7 @@
     }
   },
   "NtUserDeleteMenu": {
-    "Windows NT": {
+    "Windows NT 4.0": {
       "SP0": 4351,
       "SP1": 4351,
       "SP2": 4351,
@@ -32394,7 +32394,7 @@
     }
   },
   "NtUserDestroyAcceleratorTable": {
-    "Windows NT": {
+    "Windows NT 4.0": {
       "SP0": 4352,
       "SP1": 4352,
       "SP2": 4352,
@@ -32475,7 +32475,7 @@
     }
   },
   "NtUserDestroyCursor": {
-    "Windows NT": {
+    "Windows NT 4.0": {
       "SP0": 4353,
       "SP1": 4353,
       "SP2": 4353,
@@ -32609,7 +32609,7 @@
     }
   },
   "NtUserDestroyMenu": {
-    "Windows NT": {
+    "Windows NT 4.0": {
       "SP0": 4354,
       "SP1": 4354,
       "SP2": 4354,
@@ -32683,7 +32683,7 @@
     }
   },
   "NtUserDestroyWindow": {
-    "Windows NT": {
+    "Windows NT 4.0": {
       "SP0": 4355,
       "SP1": 4355,
       "SP2": 4355,
@@ -32861,7 +32861,7 @@
     }
   },
   "NtUserDispatchMessage": {
-    "Windows NT": {
+    "Windows NT 4.0": {
       "SP0": 4356,
       "SP1": 4356,
       "SP2": 4356,
@@ -33047,7 +33047,7 @@
     }
   },
   "NtUserDragDetect": {
-    "Windows NT": {
+    "Windows NT 4.0": {
       "SP0": 4357,
       "SP1": 4357,
       "SP2": 4357,
@@ -33108,7 +33108,7 @@
     }
   },
   "NtUserDragObject": {
-    "Windows NT": {
+    "Windows NT 4.0": {
       "SP0": 4358,
       "SP1": 4358,
       "SP2": 4358,
@@ -33169,7 +33169,7 @@
     }
   },
   "NtUserDrawAnimatedRects": {
-    "Windows NT": {
+    "Windows NT 4.0": {
       "SP0": 4359,
       "SP1": 4359,
       "SP2": 4359,
@@ -33230,7 +33230,7 @@
     }
   },
   "NtUserDrawCaption": {
-    "Windows NT": {
+    "Windows NT 4.0": {
       "SP0": 4360,
       "SP1": 4360,
       "SP2": 4360,
@@ -33291,7 +33291,7 @@
     }
   },
   "NtUserDrawCaptionTemp": {
-    "Windows NT": {
+    "Windows NT 4.0": {
       "SP0": 4361,
       "SP1": 4361,
       "SP2": 4361,
@@ -33352,7 +33352,7 @@
     }
   },
   "NtUserDrawIconEx": {
-    "Windows NT": {
+    "Windows NT 4.0": {
       "SP0": 4362,
       "SP1": 4362,
       "SP2": 4362,
@@ -33413,7 +33413,7 @@
     }
   },
   "NtUserDrawMenuBarTemp": {
-    "Windows NT": {
+    "Windows NT 4.0": {
       "SP0": 4363,
       "SP1": 4363,
       "SP2": 4363,
@@ -33620,7 +33620,7 @@
     }
   },
   "NtUserECQueryInputLangChange": {
-    "Windows NT": {
+    "Windows NT 4.0": {
       "SP0": 4364,
       "SP1": 4364,
       "SP2": 4364,
@@ -33723,7 +33723,7 @@
     }
   },
   "NtUserEnableMenuItem": {
-    "Windows NT": {
+    "Windows NT 4.0": {
       "SP0": 4365,
       "SP1": 4365,
       "SP2": 4365,
@@ -33868,7 +33868,7 @@
     }
   },
   "NtUserEnableScrollBar": {
-    "Windows NT": {
+    "Windows NT 4.0": {
       "SP0": 4366,
       "SP1": 4366,
       "SP2": 4366,
@@ -34006,7 +34006,7 @@
     }
   },
   "NtUserEndDeferWindowPosEx": {
-    "Windows NT": {
+    "Windows NT 4.0": {
       "SP0": 4367,
       "SP1": 4367,
       "SP2": 4367,
@@ -34067,7 +34067,7 @@
     }
   },
   "NtUserEndMenu": {
-    "Windows NT": {
+    "Windows NT 4.0": {
       "SP0": 4368,
       "SP1": 4368,
       "SP2": 4368,
@@ -34128,7 +34128,7 @@
     }
   },
   "NtUserEndPaint": {
-    "Windows NT": {
+    "Windows NT 4.0": {
       "SP0": 4369,
       "SP1": 4369,
       "SP2": 4369,
@@ -34195,7 +34195,7 @@
     }
   },
   "NtUserEnumDisplayDevices": {
-    "Windows NT": {
+    "Windows NT 4.0": {
       "SP0": 4370,
       "SP1": 4370,
       "SP2": 4370,
@@ -34307,7 +34307,7 @@
     }
   },
   "NtUserEnumDisplaySettings": {
-    "Windows NT": {
+    "Windows NT 4.0": {
       "SP0": 4371,
       "SP1": 4371,
       "SP2": 4371,
@@ -34368,7 +34368,7 @@
     }
   },
   "NtUserEvent": {
-    "Windows NT": {
+    "Windows NT 4.0": {
       "SP0": 4372,
       "SP1": 4372,
       "SP2": 4372,
@@ -34429,7 +34429,7 @@
     }
   },
   "NtUserExcludeUpdateRgn": {
-    "Windows NT": {
+    "Windows NT 4.0": {
       "SP0": 4373,
       "SP1": 4373,
       "SP2": 4373,
@@ -34490,7 +34490,7 @@
     }
   },
   "NtUserFillWindow": {
-    "Windows NT": {
+    "Windows NT 4.0": {
       "SP0": 4374,
       "SP1": 4374,
       "SP2": 4374,
@@ -34551,7 +34551,7 @@
     }
   },
   "NtUserFindExistingCursorIcon": {
-    "Windows NT": {
+    "Windows NT 4.0": {
       "SP0": 4375,
       "SP1": 4375,
       "SP2": 4375,
@@ -34612,7 +34612,7 @@
     }
   },
   "NtUserFindWindowEx": {
-    "Windows NT": {
+    "Windows NT 4.0": {
       "SP0": 4376,
       "SP1": 4376,
       "SP2": 4376,
@@ -34767,7 +34767,7 @@
     }
   },
   "NtUserFullscreenControl": {
-    "Windows NT": {
+    "Windows NT 4.0": {
       "SP0": 4422,
       "SP1": 4422,
       "SP2": 4422,
@@ -34794,7 +34794,7 @@
     }
   },
   "NtUserGetAccCursorInfo": {
-    "Windows NT": {
+    "Windows NT 4.0": {
       "SP6": 4464
     }
   },
@@ -34813,7 +34813,7 @@
     }
   },
   "NtUserGetAltTabInfo": {
-    "Windows NT": {
+    "Windows NT 4.0": {
       "SP6": 4446
     },
     "Windows 2000": {
@@ -34867,7 +34867,7 @@
     }
   },
   "NtUserGetAncestor": {
-    "Windows NT": {
+    "Windows NT 4.0": {
       "SP4": 4445,
       "SP5": 4445,
       "SP6": 4447
@@ -34974,7 +34974,7 @@
     }
   },
   "NtUserGetAsyncKeyState": {
-    "Windows NT": {
+    "Windows NT 4.0": {
       "SP0": 4423,
       "SP1": 4423,
       "SP2": 4423,
@@ -35123,7 +35123,7 @@
     }
   },
   "NtUserGetCPD": {
-    "Windows NT": {
+    "Windows NT 4.0": {
       "SP0": 4436,
       "SP1": 4436,
       "SP2": 4436,
@@ -35184,7 +35184,7 @@
     }
   },
   "NtUserGetCaretBlinkTime": {
-    "Windows NT": {
+    "Windows NT 4.0": {
       "SP0": 4424,
       "SP1": 4424,
       "SP2": 4424,
@@ -35245,7 +35245,7 @@
     }
   },
   "NtUserGetCaretPos": {
-    "Windows NT": {
+    "Windows NT 4.0": {
       "SP0": 4425,
       "SP1": 4425,
       "SP2": 4425,
@@ -35306,7 +35306,7 @@
     }
   },
   "NtUserGetClassInfo": {
-    "Windows NT": {
+    "Windows NT 4.0": {
       "SP0": 4426,
       "SP1": 4426,
       "SP2": 4426,
@@ -35369,7 +35369,7 @@
     }
   },
   "NtUserGetClassName": {
-    "Windows NT": {
+    "Windows NT 4.0": {
       "SP0": 4427,
       "SP1": 4427,
       "SP2": 4427,
@@ -35430,7 +35430,7 @@
     }
   },
   "NtUserGetClipCursor": {
-    "Windows NT": {
+    "Windows NT 4.0": {
       "SP0": 4428,
       "SP1": 4428,
       "SP2": 4428,
@@ -35513,7 +35513,7 @@
     }
   },
   "NtUserGetClipboardData": {
-    "Windows NT": {
+    "Windows NT 4.0": {
       "SP0": 4430,
       "SP1": 4430,
       "SP2": 4430,
@@ -35574,7 +35574,7 @@
     }
   },
   "NtUserGetClipboardFormatName": {
-    "Windows NT": {
+    "Windows NT 4.0": {
       "SP0": 4431,
       "SP1": 4431,
       "SP2": 4431,
@@ -35635,7 +35635,7 @@
     }
   },
   "NtUserGetClipboardOwner": {
-    "Windows NT": {
+    "Windows NT 4.0": {
       "SP0": 4432,
       "SP1": 4432,
       "SP2": 4432,
@@ -35747,7 +35747,7 @@
     }
   },
   "NtUserGetClipboardViewer": {
-    "Windows NT": {
+    "Windows NT 4.0": {
       "SP0": 4433,
       "SP1": 4433,
       "SP2": 4433,
@@ -35808,7 +35808,7 @@
     }
   },
   "NtUserGetComboBoxInfo": {
-    "Windows NT": {
+    "Windows NT 4.0": {
       "SP6": 4459
     },
     "Windows 2000": {
@@ -35862,7 +35862,7 @@
     }
   },
   "NtUserGetControlBrush": {
-    "Windows NT": {
+    "Windows NT 4.0": {
       "SP0": 4434,
       "SP1": 4434,
       "SP2": 4434,
@@ -35923,7 +35923,7 @@
     }
   },
   "NtUserGetControlColor": {
-    "Windows NT": {
+    "Windows NT 4.0": {
       "SP0": 4435,
       "SP1": 4435,
       "SP2": 4435,
@@ -36096,7 +36096,7 @@
     }
   },
   "NtUserGetCursorInfo": {
-    "Windows NT": {
+    "Windows NT 4.0": {
       "SP0": 4437,
       "SP1": 4437,
       "SP2": 4437,
@@ -36157,7 +36157,7 @@
     }
   },
   "NtUserGetDC": {
-    "Windows NT": {
+    "Windows NT 4.0": {
       "SP0": 4438,
       "SP1": 4438,
       "SP2": 4438,
@@ -36218,7 +36218,7 @@
     }
   },
   "NtUserGetDCEx": {
-    "Windows NT": {
+    "Windows NT 4.0": {
       "SP0": 4439,
       "SP1": 4439,
       "SP2": 4439,
@@ -36389,7 +36389,7 @@
     }
   },
   "NtUserGetDoubleClickTime": {
-    "Windows NT": {
+    "Windows NT 4.0": {
       "SP0": 4440,
       "SP1": 4440,
       "SP2": 4440,
@@ -36502,7 +36502,7 @@
     }
   },
   "NtUserGetForegroundWindow": {
-    "Windows NT": {
+    "Windows NT 4.0": {
       "SP0": 4445,
       "SP1": 4445,
       "SP2": 4445,
@@ -36563,7 +36563,7 @@
     }
   },
   "NtUserGetGUIThreadInfo": {
-    "Windows NT": {
+    "Windows NT 4.0": {
       "SP4": 4464,
       "SP5": 4464,
       "SP6": 4468
@@ -36788,7 +36788,7 @@
     }
   },
   "NtUserGetIconInfo": {
-    "Windows NT": {
+    "Windows NT 4.0": {
       "SP0": 4441,
       "SP1": 4441,
       "SP2": 4441,
@@ -36849,7 +36849,7 @@
     }
   },
   "NtUserGetIconSize": {
-    "Windows NT": {
+    "Windows NT 4.0": {
       "SP0": 4442,
       "SP1": 4442,
       "SP2": 4442,
@@ -37023,7 +37023,7 @@
     }
   },
   "NtUserGetInputEvent": {
-    "Windows NT": {
+    "Windows NT 4.0": {
       "SP0": 4443,
       "SP1": 4443,
       "SP2": 4443,
@@ -37108,7 +37108,7 @@
     }
   },
   "NtUserGetInternalWindowPos": {
-    "Windows NT": {
+    "Windows NT 4.0": {
       "SP0": 4444,
       "SP1": 4444,
       "SP2": 4444,
@@ -37169,7 +37169,7 @@
     }
   },
   "NtUserGetKeyNameText": {
-    "Windows NT": {
+    "Windows NT 4.0": {
       "SP0": 4449,
       "SP1": 4449,
       "SP2": 4449,
@@ -37230,7 +37230,7 @@
     }
   },
   "NtUserGetKeyState": {
-    "Windows NT": {
+    "Windows NT 4.0": {
       "SP0": 4450,
       "SP1": 4450,
       "SP2": 4450,
@@ -37303,7 +37303,7 @@
     }
   },
   "NtUserGetKeyboardLayoutList": {
-    "Windows NT": {
+    "Windows NT 4.0": {
       "SP0": 4447,
       "SP1": 4447,
       "SP2": 4447,
@@ -37364,7 +37364,7 @@
     }
   },
   "NtUserGetKeyboardLayoutName": {
-    "Windows NT": {
+    "Windows NT 4.0": {
       "SP0": 4446,
       "SP1": 4446,
       "SP2": 4446,
@@ -37425,7 +37425,7 @@
     }
   },
   "NtUserGetKeyboardState": {
-    "Windows NT": {
+    "Windows NT 4.0": {
       "SP0": 4448,
       "SP1": 4448,
       "SP2": 4448,
@@ -37530,7 +37530,7 @@
     }
   },
   "NtUserGetListBoxInfo": {
-    "Windows NT": {
+    "Windows NT 4.0": {
       "SP6": 4479
     },
     "Windows 2000": {
@@ -37584,7 +37584,7 @@
     }
   },
   "NtUserGetListboxString": {
-    "Windows NT": {
+    "Windows NT 4.0": {
       "SP0": 4451,
       "SP1": 4451,
       "SP2": 4451,
@@ -37596,7 +37596,7 @@
     }
   },
   "NtUserGetMediaChangeEvents": {
-    "Windows NT": {
+    "Windows NT 4.0": {
       "SP0": 4452,
       "SP1": 4452,
       "SP2": 4452,
@@ -37608,7 +37608,7 @@
     }
   },
   "NtUserGetMenuBarInfo": {
-    "Windows NT": {
+    "Windows NT 4.0": {
       "SP6": 4482
     },
     "Windows 2000": {
@@ -37662,7 +37662,7 @@
     }
   },
   "NtUserGetMenuIndex": {
-    "Windows NT": {
+    "Windows NT 4.0": {
       "SP0": 4453,
       "SP1": 4453,
       "SP2": 4453,
@@ -37723,7 +37723,7 @@
     }
   },
   "NtUserGetMenuItemRect": {
-    "Windows NT": {
+    "Windows NT 4.0": {
       "SP0": 4454,
       "SP1": 4454,
       "SP2": 4454,
@@ -37784,7 +37784,7 @@
     }
   },
   "NtUserGetMessage": {
-    "Windows NT": {
+    "Windows NT 4.0": {
       "SP0": 4455,
       "SP1": 4455,
       "SP2": 4455,
@@ -37901,7 +37901,7 @@
     }
   },
   "NtUserGetObjectInformation": {
-    "Windows NT": {
+    "Windows NT 4.0": {
       "SP0": 4456,
       "SP1": 4456,
       "SP2": 4456,
@@ -37975,7 +37975,7 @@
     }
   },
   "NtUserGetOpenClipboardWindow": {
-    "Windows NT": {
+    "Windows NT 4.0": {
       "SP0": 4457,
       "SP1": 4457,
       "SP2": 4457,
@@ -38349,7 +38349,7 @@
     }
   },
   "NtUserGetPriorityClipboardFormat": {
-    "Windows NT": {
+    "Windows NT 4.0": {
       "SP0": 4458,
       "SP1": 4458,
       "SP2": 4458,
@@ -38457,7 +38457,7 @@
     }
   },
   "NtUserGetProcessWindowStation": {
-    "Windows NT": {
+    "Windows NT 4.0": {
       "SP0": 4459,
       "SP1": 4459,
       "SP2": 4459,
@@ -38853,7 +38853,7 @@
     }
   },
   "NtUserGetScrollBarInfo": {
-    "Windows NT": {
+    "Windows NT 4.0": {
       "SP6": 4490
     },
     "Windows 2000": {
@@ -38916,7 +38916,7 @@
     }
   },
   "NtUserGetStats": {
-    "Windows NT": {
+    "Windows NT 4.0": {
       "SP0": 4460,
       "SP1": 4460,
       "SP2": 4460,
@@ -38941,7 +38941,7 @@
     }
   },
   "NtUserGetSystemMenu": {
-    "Windows NT": {
+    "Windows NT 4.0": {
       "SP0": 4461,
       "SP1": 4461,
       "SP2": 4461,
@@ -39002,7 +39002,7 @@
     }
   },
   "NtUserGetThreadDesktop": {
-    "Windows NT": {
+    "Windows NT 4.0": {
       "SP0": 4462,
       "SP1": 4462,
       "SP2": 4462,
@@ -39063,7 +39063,7 @@
     }
   },
   "NtUserGetThreadState": {
-    "Windows NT": {
+    "Windows NT 4.0": {
       "SP0": 4463,
       "SP1": 4463,
       "SP2": 4463,
@@ -39124,7 +39124,7 @@
     }
   },
   "NtUserGetTitleBarInfo": {
-    "Windows NT": {
+    "Windows NT 4.0": {
       "SP6": 4495
     },
     "Windows 2000": {
@@ -39263,7 +39263,7 @@
     }
   },
   "NtUserGetUpdateRect": {
-    "Windows NT": {
+    "Windows NT 4.0": {
       "SP0": 4464,
       "SP1": 4464,
       "SP2": 4464,
@@ -39324,7 +39324,7 @@
     }
   },
   "NtUserGetUpdateRgn": {
-    "Windows NT": {
+    "Windows NT 4.0": {
       "SP0": 4465,
       "SP1": 4465,
       "SP2": 4465,
@@ -39416,7 +39416,7 @@
     }
   },
   "NtUserGetUserStartupInfoFlags": {
-    "Windows NT": {
+    "Windows NT 4.0": {
       "SP0": 4466,
       "SP1": 4466,
       "SP2": 4466,
@@ -39428,7 +39428,7 @@
     }
   },
   "NtUserGetWOWClass": {
-    "Windows NT": {
+    "Windows NT 4.0": {
       "SP0": 4429,
       "SP1": 4429,
       "SP2": 4429,
@@ -39563,7 +39563,7 @@
     }
   },
   "NtUserGetWindowDC": {
-    "Windows NT": {
+    "Windows NT 4.0": {
       "SP0": 4467,
       "SP1": 4467,
       "SP2": 4467,
@@ -39716,7 +39716,7 @@
     }
   },
   "NtUserGetWindowPlacement": {
-    "Windows NT": {
+    "Windows NT 4.0": {
       "SP0": 4468,
       "SP1": 4468,
       "SP2": 4468,
@@ -39874,7 +39874,7 @@
     }
   },
   "NtUserHardErrorControl": {
-    "Windows NT": {
+    "Windows NT 4.0": {
       "SP0": 4469,
       "SP1": 4469,
       "SP2": 4469,
@@ -39935,7 +39935,7 @@
     }
   },
   "NtUserHideCaret": {
-    "Windows NT": {
+    "Windows NT 4.0": {
       "SP0": 4470,
       "SP1": 4470,
       "SP2": 4470,
@@ -40018,7 +40018,7 @@
     }
   },
   "NtUserHiliteMenuItem": {
-    "Windows NT": {
+    "Windows NT 4.0": {
       "SP0": 4471,
       "SP1": 4471,
       "SP2": 4471,
@@ -40162,7 +40162,7 @@
     }
   },
   "NtUserImpersonateDdeClientWindow": {
-    "Windows NT": {
+    "Windows NT 4.0": {
       "SP0": 4472,
       "SP1": 4472,
       "SP2": 4472,
@@ -40239,7 +40239,7 @@
     }
   },
   "NtUserInitBrushes": {
-    "Windows NT": {
+    "Windows NT 4.0": {
       "SP0": 4473,
       "SP1": 4473,
       "SP2": 4473,
@@ -40251,7 +40251,7 @@
     }
   },
   "NtUserInitTask": {
-    "Windows NT": {
+    "Windows NT 4.0": {
       "SP0": 4476,
       "SP1": 4476,
       "SP2": 4476,
@@ -40312,7 +40312,7 @@
     }
   },
   "NtUserInitialize": {
-    "Windows NT": {
+    "Windows NT 4.0": {
       "SP0": 4474,
       "SP1": 4474,
       "SP2": 4474,
@@ -40373,7 +40373,7 @@
     }
   },
   "NtUserInitializeClientPfnArrays": {
-    "Windows NT": {
+    "Windows NT 4.0": {
       "SP0": 4475,
       "SP1": 4475,
       "SP2": 4475,
@@ -40715,7 +40715,7 @@
     }
   },
   "NtUserInternalGetWindowText": {
-    "Windows NT": {
+    "Windows NT 4.0": {
       "SP0": 4477,
       "SP1": 4477,
       "SP2": 4477,
@@ -40785,7 +40785,7 @@
     }
   },
   "NtUserInvalidateRect": {
-    "Windows NT": {
+    "Windows NT 4.0": {
       "SP0": 4478,
       "SP1": 4478,
       "SP2": 4478,
@@ -40846,7 +40846,7 @@
     }
   },
   "NtUserInvalidateRgn": {
-    "Windows NT": {
+    "Windows NT 4.0": {
       "SP0": 4479,
       "SP1": 4479,
       "SP2": 4479,
@@ -40925,7 +40925,7 @@
     }
   },
   "NtUserIsClipboardFormatAvailable": {
-    "Windows NT": {
+    "Windows NT 4.0": {
       "SP0": 4480,
       "SP1": 4480,
       "SP2": 4480,
@@ -41146,7 +41146,7 @@
     }
   },
   "NtUserKillTimer": {
-    "Windows NT": {
+    "Windows NT 4.0": {
       "SP0": 4482,
       "SP1": 4482,
       "SP2": 4482,
@@ -41250,7 +41250,7 @@
     }
   },
   "NtUserLoadKeyboardLayoutEx": {
-    "Windows NT": {
+    "Windows NT 4.0": {
       "SP0": 4483,
       "SP1": 4483,
       "SP2": 4483,
@@ -41326,7 +41326,7 @@
     }
   },
   "NtUserLockWindowStation": {
-    "Windows NT": {
+    "Windows NT 4.0": {
       "SP0": 4484,
       "SP1": 4484,
       "SP2": 4484,
@@ -41387,7 +41387,7 @@
     }
   },
   "NtUserLockWindowUpdate": {
-    "Windows NT": {
+    "Windows NT 4.0": {
       "SP0": 4485,
       "SP1": 4485,
       "SP2": 4485,
@@ -41761,7 +41761,7 @@
     }
   },
   "NtUserMapVirtualKeyEx": {
-    "Windows NT": {
+    "Windows NT 4.0": {
       "SP0": 4486,
       "SP1": 4486,
       "SP2": 4486,
@@ -41831,7 +41831,7 @@
     }
   },
   "NtUserMenuItemFromPoint": {
-    "Windows NT": {
+    "Windows NT 4.0": {
       "SP0": 4487,
       "SP1": 4487,
       "SP2": 4487,
@@ -41952,7 +41952,7 @@
     }
   },
   "NtUserMinMaximize": {
-    "Windows NT": {
+    "Windows NT 4.0": {
       "SP0": 4488,
       "SP1": 4488,
       "SP2": 4488,
@@ -42090,7 +42090,7 @@
     }
   },
   "NtUserMoveWindow": {
-    "Windows NT": {
+    "Windows NT 4.0": {
       "SP0": 4490,
       "SP1": 4490,
       "SP2": 4490,
@@ -42234,7 +42234,7 @@
     }
   },
   "NtUserNotifyProcessCreate": {
-    "Windows NT": {
+    "Windows NT 4.0": {
       "SP0": 4491,
       "SP1": 4491,
       "SP2": 4491,
@@ -42295,7 +42295,7 @@
     }
   },
   "NtUserNotifyWinEvent": {
-    "Windows NT": {
+    "Windows NT 4.0": {
       "SP3": 4511,
       "SP3 TSE": 4511,
       "SP4": 4514,
@@ -42353,7 +42353,7 @@
     }
   },
   "NtUserOpenClipboard": {
-    "Windows NT": {
+    "Windows NT 4.0": {
       "SP0": 4492,
       "SP1": 4492,
       "SP2": 4492,
@@ -42414,7 +42414,7 @@
     }
   },
   "NtUserOpenDesktop": {
-    "Windows NT": {
+    "Windows NT 4.0": {
       "SP0": 4493,
       "SP1": 4493,
       "SP2": 4493,
@@ -42475,7 +42475,7 @@
     }
   },
   "NtUserOpenInputDesktop": {
-    "Windows NT": {
+    "Windows NT 4.0": {
       "SP0": 4494,
       "SP1": 4494,
       "SP2": 4494,
@@ -42567,7 +42567,7 @@
     }
   },
   "NtUserOpenWindowStation": {
-    "Windows NT": {
+    "Windows NT 4.0": {
       "SP0": 4495,
       "SP1": 4495,
       "SP2": 4495,
@@ -42628,7 +42628,7 @@
     }
   },
   "NtUserPaintDesktop": {
-    "Windows NT": {
+    "Windows NT 4.0": {
       "SP0": 4496,
       "SP1": 4496,
       "SP2": 4496,
@@ -42764,7 +42764,7 @@
     }
   },
   "NtUserPeekMessage": {
-    "Windows NT": {
+    "Windows NT 4.0": {
       "SP0": 4497,
       "SP1": 4497,
       "SP2": 4497,
@@ -42890,7 +42890,7 @@
     }
   },
   "NtUserPlayEventSound": {
-    "Windows NT": {
+    "Windows NT 4.0": {
       "SP0": 4498,
       "SP1": 4498,
       "SP2": 4498,
@@ -42911,7 +42911,7 @@
     }
   },
   "NtUserPostMessage": {
-    "Windows NT": {
+    "Windows NT 4.0": {
       "SP0": 4499,
       "SP1": 4499,
       "SP2": 4499,
@@ -42972,7 +42972,7 @@
     }
   },
   "NtUserPostThreadMessage": {
-    "Windows NT": {
+    "Windows NT 4.0": {
       "SP0": 4500,
       "SP1": 4500,
       "SP2": 4500,
@@ -43077,7 +43077,7 @@
     }
   },
   "NtUserProcessConnect": {
-    "Windows NT": {
+    "Windows NT 4.0": {
       "SP0": 4501,
       "SP1": 4501,
       "SP2": 4501,
@@ -43256,7 +43256,7 @@
     }
   },
   "NtUserQueryInformationThread": {
-    "Windows NT": {
+    "Windows NT 4.0": {
       "SP0": 4502,
       "SP1": 4502,
       "SP2": 4502,
@@ -43368,7 +43368,7 @@
     }
   },
   "NtUserQuerySendMessage": {
-    "Windows NT": {
+    "Windows NT 4.0": {
       "SP0": 4503,
       "SP1": 4503,
       "SP2": 4503,
@@ -43444,7 +43444,7 @@
     }
   },
   "NtUserQueryWindow": {
-    "Windows NT": {
+    "Windows NT 4.0": {
       "SP0": 4504,
       "SP1": 4504,
       "SP2": 4504,
@@ -43505,7 +43505,7 @@
     }
   },
   "NtUserRealChildWindowFromPoint": {
-    "Windows NT": {
+    "Windows NT 4.0": {
       "SP4": 4528,
       "SP5": 4528,
       "SP6": 4536
@@ -43649,7 +43649,7 @@
     }
   },
   "NtUserRedrawWindow": {
-    "Windows NT": {
+    "Windows NT 4.0": {
       "SP0": 4505,
       "SP1": 4505,
       "SP2": 4505,
@@ -43732,7 +43732,7 @@
     }
   },
   "NtUserRegisterClassExWOW": {
-    "Windows NT": {
+    "Windows NT 4.0": {
       "SP0": 4506,
       "SP1": 4506,
       "SP2": 4506,
@@ -43793,7 +43793,7 @@
     }
   },
   "NtUserRegisterClipboardFormat": {
-    "Windows NT": {
+    "Windows NT 4.0": {
       "SP0": 4507,
       "SP1": 4507,
       "SP2": 4507,
@@ -43876,7 +43876,7 @@
     }
   },
   "NtUserRegisterHotKey": {
-    "Windows NT": {
+    "Windows NT 4.0": {
       "SP0": 4508,
       "SP1": 4508,
       "SP2": 4508,
@@ -44118,7 +44118,7 @@
     }
   },
   "NtUserRegisterTasklist": {
-    "Windows NT": {
+    "Windows NT 4.0": {
       "SP0": 4509,
       "SP1": 4509,
       "SP2": 4509,
@@ -44266,7 +44266,7 @@
     }
   },
   "NtUserRegisterWindowMessage": {
-    "Windows NT": {
+    "Windows NT 4.0": {
       "SP0": 4510,
       "SP1": 4510,
       "SP2": 4510,
@@ -44611,7 +44611,7 @@
     }
   },
   "NtUserRemoveMenu": {
-    "Windows NT": {
+    "Windows NT 4.0": {
       "SP0": 4511,
       "SP1": 4511,
       "SP2": 4511,
@@ -44672,7 +44672,7 @@
     }
   },
   "NtUserRemoveProp": {
-    "Windows NT": {
+    "Windows NT 4.0": {
       "SP0": 4512,
       "SP1": 4512,
       "SP2": 4512,
@@ -44778,7 +44778,7 @@
     }
   },
   "NtUserResolveDesktop": {
-    "Windows NT": {
+    "Windows NT 4.0": {
       "SP0": 4513,
       "SP1": 4513,
       "SP2": 4513,
@@ -44878,7 +44878,7 @@
     }
   },
   "NtUserSBGetParms": {
-    "Windows NT": {
+    "Windows NT 4.0": {
       "SP0": 4514,
       "SP1": 4514,
       "SP2": 4514,
@@ -44939,7 +44939,7 @@
     }
   },
   "NtUserScrollDC": {
-    "Windows NT": {
+    "Windows NT 4.0": {
       "SP0": 4515,
       "SP1": 4515,
       "SP2": 4515,
@@ -45000,7 +45000,7 @@
     }
   },
   "NtUserScrollWindowEx": {
-    "Windows NT": {
+    "Windows NT 4.0": {
       "SP0": 4516,
       "SP1": 4516,
       "SP2": 4516,
@@ -45061,7 +45061,7 @@
     }
   },
   "NtUserSelectPalette": {
-    "Windows NT": {
+    "Windows NT 4.0": {
       "SP0": 4517,
       "SP1": 4517,
       "SP2": 4517,
@@ -45144,7 +45144,7 @@
     }
   },
   "NtUserSendInput": {
-    "Windows NT": {
+    "Windows NT 4.0": {
       "SP3": 4538,
       "SP3 TSE": 4538,
       "SP4": 4542,
@@ -45218,7 +45218,7 @@
     }
   },
   "NtUserSendMessageCallback": {
-    "Windows NT": {
+    "Windows NT 4.0": {
       "SP0": 4518,
       "SP1": 4518,
       "SP2": 4518,
@@ -45237,7 +45237,7 @@
     }
   },
   "NtUserSendNotifyMessage": {
-    "Windows NT": {
+    "Windows NT 4.0": {
       "SP0": 4519,
       "SP1": 4519,
       "SP2": 4519,
@@ -45307,7 +45307,7 @@
     }
   },
   "NtUserSetActiveWindow": {
-    "Windows NT": {
+    "Windows NT 4.0": {
       "SP0": 4520,
       "SP1": 4520,
       "SP2": 4520,
@@ -45498,7 +45498,7 @@
     }
   },
   "NtUserSetCapture": {
-    "Windows NT": {
+    "Windows NT 4.0": {
       "SP0": 4521,
       "SP1": 4521,
       "SP2": 4521,
@@ -45585,7 +45585,7 @@
     }
   },
   "NtUserSetClassLong": {
-    "Windows NT": {
+    "Windows NT 4.0": {
       "SP0": 4522,
       "SP1": 4522,
       "SP2": 4522,
@@ -45646,7 +45646,7 @@
     }
   },
   "NtUserSetClassWord": {
-    "Windows NT": {
+    "Windows NT 4.0": {
       "SP0": 4523,
       "SP1": 4523,
       "SP2": 4523,
@@ -45707,7 +45707,7 @@
     }
   },
   "NtUserSetClipboardData": {
-    "Windows NT": {
+    "Windows NT 4.0": {
       "SP0": 4524,
       "SP1": 4524,
       "SP2": 4524,
@@ -45768,7 +45768,7 @@
     }
   },
   "NtUserSetClipboardViewer": {
-    "Windows NT": {
+    "Windows NT 4.0": {
       "SP0": 4525,
       "SP1": 4525,
       "SP2": 4525,
@@ -45829,7 +45829,7 @@
     }
   },
   "NtUserSetConsoleReserveKeys": {
-    "Windows NT": {
+    "Windows NT 4.0": {
       "SP0": 4526,
       "SP1": 4526,
       "SP2": 4526,
@@ -45902,7 +45902,7 @@
     }
   },
   "NtUserSetCursor": {
-    "Windows NT": {
+    "Windows NT 4.0": {
       "SP0": 4527,
       "SP1": 4527,
       "SP2": 4527,
@@ -45963,7 +45963,7 @@
     }
   },
   "NtUserSetCursorContents": {
-    "Windows NT": {
+    "Windows NT 4.0": {
       "SP0": 4528,
       "SP1": 4528,
       "SP2": 4528,
@@ -46024,7 +46024,7 @@
     }
   },
   "NtUserSetCursorIconData": {
-    "Windows NT": {
+    "Windows NT 4.0": {
       "SP0": 4529,
       "SP1": 4529,
       "SP2": 4529,
@@ -46114,7 +46114,7 @@
     }
   },
   "NtUserSetDebugErrorLevel": {
-    "Windows NT": {
+    "Windows NT 4.0": {
       "SP0": 4530,
       "SP1": 4530,
       "SP2": 4530,
@@ -46279,7 +46279,7 @@
     }
   },
   "NtUserSetFocus": {
-    "Windows NT": {
+    "Windows NT 4.0": {
       "SP0": 4531,
       "SP1": 4531,
       "SP2": 4531,
@@ -46576,7 +46576,7 @@
     }
   },
   "NtUserSetInformationThread": {
-    "Windows NT": {
+    "Windows NT 4.0": {
       "SP0": 4532,
       "SP1": 4532,
       "SP2": 4532,
@@ -46678,7 +46678,7 @@
     }
   },
   "NtUserSetInternalWindowPos": {
-    "Windows NT": {
+    "Windows NT 4.0": {
       "SP0": 4533,
       "SP1": 4533,
       "SP2": 4533,
@@ -46739,7 +46739,7 @@
     }
   },
   "NtUserSetKeyboardState": {
-    "Windows NT": {
+    "Windows NT 4.0": {
       "SP0": 4534,
       "SP1": 4534,
       "SP2": 4534,
@@ -46851,7 +46851,7 @@
     }
   },
   "NtUserSetLogonNotifyWindow": {
-    "Windows NT": {
+    "Windows NT 4.0": {
       "SP0": 4535,
       "SP1": 4535,
       "SP2": 4535,
@@ -46912,7 +46912,7 @@
     }
   },
   "NtUserSetMenu": {
-    "Windows NT": {
+    "Windows NT 4.0": {
       "SP0": 4536,
       "SP1": 4536,
       "SP2": 4536,
@@ -46973,7 +46973,7 @@
     }
   },
   "NtUserSetMenuContextHelpId": {
-    "Windows NT": {
+    "Windows NT 4.0": {
       "SP0": 4537,
       "SP1": 4537,
       "SP2": 4537,
@@ -47034,7 +47034,7 @@
     }
   },
   "NtUserSetMenuDefaultItem": {
-    "Windows NT": {
+    "Windows NT 4.0": {
       "SP0": 4538,
       "SP1": 4538,
       "SP2": 4538,
@@ -47200,7 +47200,7 @@
     }
   },
   "NtUserSetObjectInformation": {
-    "Windows NT": {
+    "Windows NT 4.0": {
       "SP0": 4539,
       "SP1": 4539,
       "SP2": 4539,
@@ -47261,7 +47261,7 @@
     }
   },
   "NtUserSetParent": {
-    "Windows NT": {
+    "Windows NT 4.0": {
       "SP0": 4540,
       "SP1": 4540,
       "SP2": 4540,
@@ -47453,7 +47453,7 @@
     }
   },
   "NtUserSetProcessWindowStation": {
-    "Windows NT": {
+    "Windows NT 4.0": {
       "SP0": 4541,
       "SP1": 4541,
       "SP2": 4541,
@@ -47514,7 +47514,7 @@
     }
   },
   "NtUserSetProp": {
-    "Windows NT": {
+    "Windows NT 4.0": {
       "SP0": 4542,
       "SP1": 4542,
       "SP2": 4542,
@@ -47590,7 +47590,7 @@
     }
   },
   "NtUserSetScrollInfo": {
-    "Windows NT": {
+    "Windows NT 4.0": {
       "SP0": 4543,
       "SP1": 4543,
       "SP2": 4543,
@@ -47682,7 +47682,7 @@
     }
   },
   "NtUserSetShellWindowEx": {
-    "Windows NT": {
+    "Windows NT 4.0": {
       "SP0": 4544,
       "SP1": 4544,
       "SP2": 4544,
@@ -47743,7 +47743,7 @@
     }
   },
   "NtUserSetSysColors": {
-    "Windows NT": {
+    "Windows NT 4.0": {
       "SP0": 4545,
       "SP1": 4545,
       "SP2": 4545,
@@ -47804,7 +47804,7 @@
     }
   },
   "NtUserSetSystemCursor": {
-    "Windows NT": {
+    "Windows NT 4.0": {
       "SP0": 4546,
       "SP1": 4546,
       "SP2": 4546,
@@ -47865,7 +47865,7 @@
     }
   },
   "NtUserSetSystemMenu": {
-    "Windows NT": {
+    "Windows NT 4.0": {
       "SP0": 4547,
       "SP1": 4547,
       "SP2": 4547,
@@ -47926,7 +47926,7 @@
     }
   },
   "NtUserSetSystemTimer": {
-    "Windows NT": {
+    "Windows NT 4.0": {
       "SP0": 4548,
       "SP1": 4548,
       "SP2": 4548,
@@ -48001,7 +48001,7 @@
     }
   },
   "NtUserSetThreadDesktop": {
-    "Windows NT": {
+    "Windows NT 4.0": {
       "SP0": 4549,
       "SP1": 4549,
       "SP2": 4549,
@@ -48135,7 +48135,7 @@
     }
   },
   "NtUserSetThreadState": {
-    "Windows NT": {
+    "Windows NT 4.0": {
       "SP0": 4550,
       "SP1": 4550,
       "SP2": 4550,
@@ -48196,7 +48196,7 @@
     }
   },
   "NtUserSetTimer": {
-    "Windows NT": {
+    "Windows NT 4.0": {
       "SP0": 4551,
       "SP1": 4551,
       "SP2": 4551,
@@ -48257,7 +48257,7 @@
     }
   },
   "NtUserSetUserStartupInfoFlags": {
-    "Windows NT": {
+    "Windows NT 4.0": {
       "SP0": 4552,
       "SP1": 4552,
       "SP2": 4552,
@@ -48269,7 +48269,7 @@
     }
   },
   "NtUserSetWinEventHook": {
-    "Windows NT": {
+    "Windows NT 4.0": {
       "SP3": 4583,
       "SP3 TSE": 4583,
       "SP4": 4587,
@@ -48441,7 +48441,7 @@
     }
   },
   "NtUserSetWindowFNID": {
-    "Windows NT": {
+    "Windows NT 4.0": {
       "SP0": 4553,
       "SP1": 4553,
       "SP2": 4553,
@@ -48537,7 +48537,7 @@
     }
   },
   "NtUserSetWindowLong": {
-    "Windows NT": {
+    "Windows NT 4.0": {
       "SP0": 4554,
       "SP1": 4554,
       "SP2": 4554,
@@ -48598,7 +48598,7 @@
     }
   },
   "NtUserSetWindowPlacement": {
-    "Windows NT": {
+    "Windows NT 4.0": {
       "SP0": 4555,
       "SP1": 4555,
       "SP2": 4555,
@@ -48659,7 +48659,7 @@
     }
   },
   "NtUserSetWindowPos": {
-    "Windows NT": {
+    "Windows NT 4.0": {
       "SP0": 4556,
       "SP1": 4556,
       "SP2": 4556,
@@ -48720,7 +48720,7 @@
     }
   },
   "NtUserSetWindowRgn": {
-    "Windows NT": {
+    "Windows NT 4.0": {
       "SP0": 4557,
       "SP1": 4557,
       "SP2": 4557,
@@ -48830,7 +48830,7 @@
     }
   },
   "NtUserSetWindowStationUser": {
-    "Windows NT": {
+    "Windows NT 4.0": {
       "SP0": 4560,
       "SP1": 4560,
       "SP2": 4560,
@@ -48891,7 +48891,7 @@
     }
   },
   "NtUserSetWindowWord": {
-    "Windows NT": {
+    "Windows NT 4.0": {
       "SP0": 4561,
       "SP1": 4561,
       "SP2": 4561,
@@ -48952,7 +48952,7 @@
     }
   },
   "NtUserSetWindowsHookAW": {
-    "Windows NT": {
+    "Windows NT 4.0": {
       "SP0": 4558,
       "SP1": 4558,
       "SP2": 4558,
@@ -49013,7 +49013,7 @@
     }
   },
   "NtUserSetWindowsHookEx": {
-    "Windows NT": {
+    "Windows NT 4.0": {
       "SP0": 4559,
       "SP1": 4559,
       "SP2": 4559,
@@ -49134,7 +49134,7 @@
     }
   },
   "NtUserShowCaret": {
-    "Windows NT": {
+    "Windows NT 4.0": {
       "SP0": 4562,
       "SP1": 4562,
       "SP2": 4562,
@@ -49209,7 +49209,7 @@
     }
   },
   "NtUserShowScrollBar": {
-    "Windows NT": {
+    "Windows NT 4.0": {
       "SP0": 4563,
       "SP1": 4563,
       "SP2": 4563,
@@ -49301,7 +49301,7 @@
     }
   },
   "NtUserShowWindow": {
-    "Windows NT": {
+    "Windows NT 4.0": {
       "SP0": 4564,
       "SP1": 4564,
       "SP2": 4564,
@@ -49362,7 +49362,7 @@
     }
   },
   "NtUserShowWindowAsync": {
-    "Windows NT": {
+    "Windows NT 4.0": {
       "SP0": 4565,
       "SP1": 4565,
       "SP2": 4565,
@@ -49533,7 +49533,7 @@
     }
   },
   "NtUserSoundSentry": {
-    "Windows NT": {
+    "Windows NT 4.0": {
       "SP0": 4566,
       "SP1": 4566,
       "SP2": 4566,
@@ -49608,7 +49608,7 @@
     }
   },
   "NtUserSwitchDesktop": {
-    "Windows NT": {
+    "Windows NT 4.0": {
       "SP0": 4567,
       "SP1": 4567,
       "SP2": 4567,
@@ -49669,7 +49669,7 @@
     }
   },
   "NtUserSystemParametersInfo": {
-    "Windows NT": {
+    "Windows NT 4.0": {
       "SP0": 4568,
       "SP1": 4568,
       "SP2": 4568,
@@ -49746,7 +49746,7 @@
     }
   },
   "NtUserTestForInteractiveUser": {
-    "Windows NT": {
+    "Windows NT 4.0": {
       "SP0": 4569,
       "SP1": 4569,
       "SP2": 4569,
@@ -49858,7 +49858,7 @@
     }
   },
   "NtUserThunkedMenuItemInfo": {
-    "Windows NT": {
+    "Windows NT 4.0": {
       "SP0": 4570,
       "SP1": 4570,
       "SP2": 4570,
@@ -49919,7 +49919,7 @@
     }
   },
   "NtUserToUnicodeEx": {
-    "Windows NT": {
+    "Windows NT 4.0": {
       "SP0": 4571,
       "SP1": 4571,
       "SP2": 4571,
@@ -49980,7 +49980,7 @@
     }
   },
   "NtUserTrackMouseEvent": {
-    "Windows NT": {
+    "Windows NT 4.0": {
       "SP0": 4572,
       "SP1": 4572,
       "SP2": 4572,
@@ -50041,7 +50041,7 @@
     }
   },
   "NtUserTrackPopupMenuEx": {
-    "Windows NT": {
+    "Windows NT 4.0": {
       "SP0": 4573,
       "SP1": 4573,
       "SP2": 4573,
@@ -50144,7 +50144,7 @@
     }
   },
   "NtUserTranslateAccelerator": {
-    "Windows NT": {
+    "Windows NT 4.0": {
       "SP0": 4574,
       "SP1": 4574,
       "SP2": 4574,
@@ -50205,7 +50205,7 @@
     }
   },
   "NtUserTranslateMessage": {
-    "Windows NT": {
+    "Windows NT 4.0": {
       "SP0": 4575,
       "SP1": 4575,
       "SP2": 4575,
@@ -50288,7 +50288,7 @@
     }
   },
   "NtUserUnhookWinEvent": {
-    "Windows NT": {
+    "Windows NT 4.0": {
       "SP3": 4599,
       "SP3 TSE": 4599,
       "SP4": 4603,
@@ -50346,7 +50346,7 @@
     }
   },
   "NtUserUnhookWindowsHookEx": {
-    "Windows NT": {
+    "Windows NT 4.0": {
       "SP0": 4576,
       "SP1": 4576,
       "SP2": 4576,
@@ -50407,7 +50407,7 @@
     }
   },
   "NtUserUnloadKeyboardLayout": {
-    "Windows NT": {
+    "Windows NT 4.0": {
       "SP0": 4577,
       "SP1": 4577,
       "SP2": 4577,
@@ -50468,7 +50468,7 @@
     }
   },
   "NtUserUnlockWindowStation": {
-    "Windows NT": {
+    "Windows NT 4.0": {
       "SP0": 4578,
       "SP1": 4578,
       "SP2": 4578,
@@ -50529,7 +50529,7 @@
     }
   },
   "NtUserUnregisterClass": {
-    "Windows NT": {
+    "Windows NT 4.0": {
       "SP0": 4579,
       "SP1": 4579,
       "SP2": 4579,
@@ -50590,7 +50590,7 @@
     }
   },
   "NtUserUnregisterHotKey": {
-    "Windows NT": {
+    "Windows NT 4.0": {
       "SP0": 4580,
       "SP1": 4580,
       "SP2": 4580,
@@ -50799,7 +50799,7 @@
     }
   },
   "NtUserUpdateInstance": {
-    "Windows NT": {
+    "Windows NT 4.0": {
       "SP0": 4581,
       "SP1": 4581,
       "SP2": 4581,
@@ -50911,7 +50911,7 @@
     }
   },
   "NtUserUpdatePerUserSystemParameters": {
-    "Windows NT": {
+    "Windows NT 4.0": {
       "SP0": 4582,
       "SP1": 4582,
       "SP2": 4582,
@@ -51127,7 +51127,7 @@
     }
   },
   "NtUserValidateRect": {
-    "Windows NT": {
+    "Windows NT 4.0": {
       "SP0": 4583,
       "SP1": 4583,
       "SP2": 4583,
@@ -51234,7 +51234,7 @@
     }
   },
   "NtUserVkKeyScanEx": {
-    "Windows NT": {
+    "Windows NT 4.0": {
       "SP0": 4584,
       "SP1": 4584,
       "SP2": 4584,
@@ -51295,7 +51295,7 @@
     }
   },
   "NtUserWOWCleanup": {
-    "Windows NT": {
+    "Windows NT 4.0": {
       "SP0": 4589,
       "SP1": 4589,
       "SP2": 4589,
@@ -51319,7 +51319,7 @@
     }
   },
   "NtUserWOWFindWindow": {
-    "Windows NT": {
+    "Windows NT 4.0": {
       "SP0": 4590,
       "SP1": 4590,
       "SP2": 4590,
@@ -51353,7 +51353,7 @@
     }
   },
   "NtUserWaitForInputIdle": {
-    "Windows NT": {
+    "Windows NT 4.0": {
       "SP0": 4585,
       "SP1": 4585,
       "SP2": 4585,
@@ -51414,7 +51414,7 @@
     }
   },
   "NtUserWaitForMsgAndEvent": {
-    "Windows NT": {
+    "Windows NT 4.0": {
       "SP0": 4586,
       "SP1": 4586,
       "SP2": 4586,
@@ -51497,7 +51497,7 @@
     }
   },
   "NtUserWaitMessage": {
-    "Windows NT": {
+    "Windows NT 4.0": {
       "SP0": 4587,
       "SP1": 4587,
       "SP2": 4587,
@@ -51630,7 +51630,7 @@
     }
   },
   "NtUserWindowFromPoint": {
-    "Windows NT": {
+    "Windows NT 4.0": {
       "SP0": 4588,
       "SP1": 4588,
       "SP2": 4588,
@@ -51691,7 +51691,7 @@
     }
   },
   "NtUserYieldTask": {
-    "Windows NT": {
+    "Windows NT 4.0": {
       "SP0": 4591,
       "SP1": 4591,
       "SP2": 4591,
@@ -51752,7 +51752,7 @@
     }
   },
   "NtUserfnCOPYDATA": {
-    "Windows NT": {
+    "Windows NT 4.0": {
       "SP0": 4377,
       "SP1": 4377,
       "SP2": 4377,
@@ -51764,7 +51764,7 @@
     }
   },
   "NtUserfnCOPYGLOBALDATA": {
-    "Windows NT": {
+    "Windows NT 4.0": {
       "SP0": 4378,
       "SP1": 4378,
       "SP2": 4378,
@@ -51776,7 +51776,7 @@
     }
   },
   "NtUserfnDDEINIT": {
-    "Windows NT": {
+    "Windows NT 4.0": {
       "SP0": 4379,
       "SP1": 4379,
       "SP2": 4379,
@@ -51788,7 +51788,7 @@
     }
   },
   "NtUserfnDWORD": {
-    "Windows NT": {
+    "Windows NT 4.0": {
       "SP0": 4380,
       "SP1": 4380,
       "SP2": 4380,
@@ -51800,7 +51800,7 @@
     }
   },
   "NtUserfnDWORDOPTINLPMSG": {
-    "Windows NT": {
+    "Windows NT 4.0": {
       "SP0": 4381,
       "SP1": 4381,
       "SP2": 4381,
@@ -51812,7 +51812,7 @@
     }
   },
   "NtUserfnGETTEXTLENGTHS": {
-    "Windows NT": {
+    "Windows NT 4.0": {
       "SP0": 4382,
       "SP1": 4382,
       "SP2": 4382,
@@ -51824,7 +51824,7 @@
     }
   },
   "NtUserfnHkINDWORD": {
-    "Windows NT": {
+    "Windows NT 4.0": {
       "SP0": 4383,
       "SP1": 4383,
       "SP2": 4383,
@@ -51836,7 +51836,7 @@
     }
   },
   "NtUserfnHkINLPCBTACTIVATESTRUCT": {
-    "Windows NT": {
+    "Windows NT 4.0": {
       "SP0": 4384,
       "SP1": 4384,
       "SP2": 4384,
@@ -51848,7 +51848,7 @@
     }
   },
   "NtUserfnHkINLPCBTCREATESTRUCT": {
-    "Windows NT": {
+    "Windows NT 4.0": {
       "SP0": 4385,
       "SP1": 4385,
       "SP2": 4385,
@@ -51860,7 +51860,7 @@
     }
   },
   "NtUserfnHkINLPDEBUGHOOKSTRUCT": {
-    "Windows NT": {
+    "Windows NT 4.0": {
       "SP0": 4386,
       "SP1": 4386,
       "SP2": 4386,
@@ -51872,7 +51872,7 @@
     }
   },
   "NtUserfnHkINLPKBDLLHOOKSTRUCT": {
-    "Windows NT": {
+    "Windows NT 4.0": {
       "SP3": 4406,
       "SP3 TSE": 4406,
       "SP4": 4407,
@@ -51881,7 +51881,7 @@
     }
   },
   "NtUserfnHkINLPMOUSEHOOKSTRUCT": {
-    "Windows NT": {
+    "Windows NT 4.0": {
       "SP0": 4387,
       "SP1": 4387,
       "SP2": 4387,
@@ -51893,7 +51893,7 @@
     }
   },
   "NtUserfnHkINLPMSG": {
-    "Windows NT": {
+    "Windows NT 4.0": {
       "SP0": 4388,
       "SP1": 4388,
       "SP2": 4388,
@@ -51905,7 +51905,7 @@
     }
   },
   "NtUserfnHkINLPMSLLHOOKSTRUCT": {
-    "Windows NT": {
+    "Windows NT 4.0": {
       "SP3": 4409,
       "SP3 TSE": 4409,
       "SP4": 4410,
@@ -51914,7 +51914,7 @@
     }
   },
   "NtUserfnHkINLPRECT": {
-    "Windows NT": {
+    "Windows NT 4.0": {
       "SP0": 4389,
       "SP1": 4389,
       "SP2": 4389,
@@ -51926,7 +51926,7 @@
     }
   },
   "NtUserfnHkOPTINLPEVENTMSG": {
-    "Windows NT": {
+    "Windows NT 4.0": {
       "SP0": 4390,
       "SP1": 4390,
       "SP2": 4390,
@@ -51938,7 +51938,7 @@
     }
   },
   "NtUserfnINCNTOUTSTRING": {
-    "Windows NT": {
+    "Windows NT 4.0": {
       "SP0": 4391,
       "SP1": 4391,
       "SP2": 4391,
@@ -51950,7 +51950,7 @@
     }
   },
   "NtUserfnINCNTOUTSTRINGNULL": {
-    "Windows NT": {
+    "Windows NT 4.0": {
       "SP0": 4392,
       "SP1": 4392,
       "SP2": 4392,
@@ -51962,7 +51962,7 @@
     }
   },
   "NtUserfnINDEVICECHANGE": {
-    "Windows NT": {
+    "Windows NT 4.0": {
       "SP0": 4414,
       "SP1": 4414,
       "SP2": 4414,
@@ -51974,7 +51974,7 @@
     }
   },
   "NtUserfnINLPCOMPAREITEMSTRUCT": {
-    "Windows NT": {
+    "Windows NT 4.0": {
       "SP0": 4393,
       "SP1": 4393,
       "SP2": 4393,
@@ -51986,7 +51986,7 @@
     }
   },
   "NtUserfnINLPCREATESTRUCT": {
-    "Windows NT": {
+    "Windows NT 4.0": {
       "SP0": 4394,
       "SP1": 4394,
       "SP2": 4394,
@@ -51998,7 +51998,7 @@
     }
   },
   "NtUserfnINLPDELETEITEMSTRUCT": {
-    "Windows NT": {
+    "Windows NT 4.0": {
       "SP0": 4395,
       "SP1": 4395,
       "SP2": 4395,
@@ -52010,7 +52010,7 @@
     }
   },
   "NtUserfnINLPDRAWITEMSTRUCT": {
-    "Windows NT": {
+    "Windows NT 4.0": {
       "SP0": 4396,
       "SP1": 4396,
       "SP2": 4396,
@@ -52022,7 +52022,7 @@
     }
   },
   "NtUserfnINLPHELPINFOSTRUCT": {
-    "Windows NT": {
+    "Windows NT 4.0": {
       "SP0": 4397,
       "SP1": 4397,
       "SP2": 4397,
@@ -52034,7 +52034,7 @@
     }
   },
   "NtUserfnINLPHLPSTRUCT": {
-    "Windows NT": {
+    "Windows NT 4.0": {
       "SP0": 4398,
       "SP1": 4398,
       "SP2": 4398,
@@ -52046,7 +52046,7 @@
     }
   },
   "NtUserfnINLPMDICREATESTRUCT": {
-    "Windows NT": {
+    "Windows NT 4.0": {
       "SP0": 4399,
       "SP1": 4399,
       "SP2": 4399,
@@ -52058,7 +52058,7 @@
     }
   },
   "NtUserfnINLPWINDOWPOS": {
-    "Windows NT": {
+    "Windows NT 4.0": {
       "SP0": 4400,
       "SP1": 4400,
       "SP2": 4400,
@@ -52070,7 +52070,7 @@
     }
   },
   "NtUserfnINOUTDRAG": {
-    "Windows NT": {
+    "Windows NT 4.0": {
       "SP0": 4401,
       "SP1": 4401,
       "SP2": 4401,
@@ -52082,7 +52082,7 @@
     }
   },
   "NtUserfnINOUTLPMEASUREITEMSTRUCT": {
-    "Windows NT": {
+    "Windows NT 4.0": {
       "SP0": 4402,
       "SP1": 4402,
       "SP2": 4402,
@@ -52094,7 +52094,7 @@
     }
   },
   "NtUserfnINOUTLPPOINT5": {
-    "Windows NT": {
+    "Windows NT 4.0": {
       "SP0": 4403,
       "SP1": 4403,
       "SP2": 4403,
@@ -52106,7 +52106,7 @@
     }
   },
   "NtUserfnINOUTLPRECT": {
-    "Windows NT": {
+    "Windows NT 4.0": {
       "SP0": 4404,
       "SP1": 4404,
       "SP2": 4404,
@@ -52118,7 +52118,7 @@
     }
   },
   "NtUserfnINOUTLPSCROLLINFO": {
-    "Windows NT": {
+    "Windows NT 4.0": {
       "SP0": 4405,
       "SP1": 4405,
       "SP2": 4405,
@@ -52130,7 +52130,7 @@
     }
   },
   "NtUserfnINOUTLPWINDOWPOS": {
-    "Windows NT": {
+    "Windows NT 4.0": {
       "SP0": 4406,
       "SP1": 4406,
       "SP2": 4406,
@@ -52142,7 +52142,7 @@
     }
   },
   "NtUserfnINOUTNCCALCSIZE": {
-    "Windows NT": {
+    "Windows NT 4.0": {
       "SP0": 4407,
       "SP1": 4407,
       "SP2": 4407,
@@ -52154,7 +52154,7 @@
     }
   },
   "NtUserfnINOUTNEXTMENU": {
-    "Windows NT": {
+    "Windows NT 4.0": {
       "SP0": 4408,
       "SP1": 4408,
       "SP2": 4408,
@@ -52166,7 +52166,7 @@
     }
   },
   "NtUserfnINOUTSTYLECHANGE": {
-    "Windows NT": {
+    "Windows NT 4.0": {
       "SP0": 4409,
       "SP1": 4409,
       "SP2": 4409,
@@ -52178,7 +52178,7 @@
     }
   },
   "NtUserfnINPAINTCLIPBRD": {
-    "Windows NT": {
+    "Windows NT 4.0": {
       "SP0": 4410,
       "SP1": 4410,
       "SP2": 4410,
@@ -52190,7 +52190,7 @@
     }
   },
   "NtUserfnINSIZECLIPBRD": {
-    "Windows NT": {
+    "Windows NT 4.0": {
       "SP0": 4411,
       "SP1": 4411,
       "SP2": 4411,
@@ -52202,7 +52202,7 @@
     }
   },
   "NtUserfnINSTRING": {
-    "Windows NT": {
+    "Windows NT 4.0": {
       "SP0": 4412,
       "SP1": 4412,
       "SP2": 4412,
@@ -52214,7 +52214,7 @@
     }
   },
   "NtUserfnINSTRINGNULL": {
-    "Windows NT": {
+    "Windows NT 4.0": {
       "SP0": 4413,
       "SP1": 4413,
       "SP2": 4413,
@@ -52226,7 +52226,7 @@
     }
   },
   "NtUserfnOPTOUTLPDWORDOPTOUTLPDWORD": {
-    "Windows NT": {
+    "Windows NT 4.0": {
       "SP0": 4415,
       "SP1": 4415,
       "SP2": 4415,
@@ -52238,7 +52238,7 @@
     }
   },
   "NtUserfnOUTDWORDINDWORD": {
-    "Windows NT": {
+    "Windows NT 4.0": {
       "SP0": 4418,
       "SP1": 4418,
       "SP2": 4418,
@@ -52250,7 +52250,7 @@
     }
   },
   "NtUserfnOUTLPRECT": {
-    "Windows NT": {
+    "Windows NT 4.0": {
       "SP0": 4416,
       "SP1": 4416,
       "SP2": 4416,
@@ -52262,7 +52262,7 @@
     }
   },
   "NtUserfnOUTSTRING": {
-    "Windows NT": {
+    "Windows NT 4.0": {
       "SP0": 4417,
       "SP1": 4417,
       "SP2": 4417,
@@ -52274,7 +52274,7 @@
     }
   },
   "NtUserfnPOPTINLPUINT": {
-    "Windows NT": {
+    "Windows NT 4.0": {
       "SP0": 4419,
       "SP1": 4419,
       "SP2": 4419,
@@ -52286,7 +52286,7 @@
     }
   },
   "NtUserfnPOUTLPINT": {
-    "Windows NT": {
+    "Windows NT 4.0": {
       "SP0": 4420,
       "SP1": 4420,
       "SP2": 4420,
@@ -52298,7 +52298,7 @@
     }
   },
   "NtUserfnSENTDDEMSG": {
-    "Windows NT": {
+    "Windows NT 4.0": {
       "SP0": 4421,
       "SP1": 4421,
       "SP2": 4421,
@@ -52310,14 +52310,14 @@
     }
   },
   "NtUserkeybd_event": {
-    "Windows NT": {
+    "Windows NT 4.0": {
       "SP0": 4481,
       "SP1": 4481,
       "SP2": 4481
     }
   },
   "NtUsermouse_event": {
-    "Windows NT": {
+    "Windows NT 4.0": {
       "SP0": 4489,
       "SP1": 4489,
       "SP2": 4489

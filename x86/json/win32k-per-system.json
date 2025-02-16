@@ -1,5 +1,5 @@
 {
-  "Windows NT": {
+  "Windows NT 4.0": {
     "SP0": {
       "NtGdiAbortDoc": 4096,
       "NtGdiAbortPath": 4097,

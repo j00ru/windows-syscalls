@@ -31,7 +31,7 @@ The following major versions of Windows are included in the tables:
 | Windows 8           | 8.0, 8.1                                 												| 8.0, 8.1                                 |
 | Windows 10          | 1507, 1511, 1607, 1703, 1709, 1803, 1809, 1903, 1909, 2004, 20H2, 21H1, 21H2, 22H2 | 1507, 1511, 1607, 1703, 1709, 1803, 1809, 1903, 1909, 2004, 20H2, 21H1, 21H2, 22H2 |
 | Windows 11          | -                                        												| 21H2, 22H2, 23H2, 24H2                   |
-| Windows Server      | -                                        												| 2022, 23H2                               |
+| Windows Server      | -                                        												| 2022, 23H2, 2025                         |
 
 Some older versions of Windows Server are not included, as their syscall tables are equivalent to these of desktop Windows editions:
 
